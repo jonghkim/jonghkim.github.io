@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publication/
+  - title: "Projects"
+    url: /project/
+  - title: "Code Blog"  
+    url: /code_blog/
+  - title: "CV"
+    url: https://drive.google.com/open?id=1RWE6j7fjzeT9TaXvcHEmlnJ2C-RD_ufr

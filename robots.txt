@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+User-agent: BadBot
+Disallow: /
+
+Sitemap: https://jonghkim.github.io/sitemap.xml
