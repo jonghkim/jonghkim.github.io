@@ -19,3 +19,4 @@ Welcome :)
     - “He who has a why to live can bear with almost any how.” - *Friedrich Nietzsche*
     - “The electric light did not come from the continuous improvement of candles.” - *Oren Harari*
     - "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'" - *Muhammad Ali*
+    - "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better." - *Samuel Beckett*
