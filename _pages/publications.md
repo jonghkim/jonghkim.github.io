@@ -6,7 +6,7 @@ author_profile: true
 last_modified_at: 2018-09-10
 ---
 ## Journal Publications
-- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (Editor’s Pick) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
+- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Conferences
 - **Kim, J.** and Lee, J., 2018. “An Empirical Study of the Stages of New Product Development on Gender Difference”, *The Korea Academic Society of Industrial Organization (KASIO)*, Seoul, Korea
