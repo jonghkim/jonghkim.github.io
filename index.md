@@ -18,3 +18,4 @@ Welcome :)
     - "I have no special talent. I am only passionately curious." - *Albert Einstein*
     - “He who has a why to live can bear with almost any how.” - *Friedrich Nietzsche*
     - “The electric light did not come from the continuous improvement of candles.” - *Oren Harari*
+    - “If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” - *Ivan Turgenev*
