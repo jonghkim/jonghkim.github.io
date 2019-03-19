@@ -3,7 +3,7 @@ layout: single
 permalink: /project/
 title: "Projects"
 author_profile: true
-last_modified_at: 2018-09-10
+last_modified_at: 2019-03-19
 ---
 ## Industrial Projects
 - Strategies for Online to Offline (O2O) Transport Services, *The Korea Transport Institute* (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
@@ -18,11 +18,13 @@ last_modified_at: 2018-09-10
 ## Academic Projects
 - Improve Overall Curriculum Design and Principles of Entrepreneurship MBA (SEMBA), *KAIST SEMBA* and *SK the Happiness Foundation* (Advisor: Dr. Kang, M. and Dr. Lee, B.), Jun 2016 ~ Nov 2016
 
-## Open Source Projects
+## Personal Projects
 - Deep Learning for Natural Language Processing
     - Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
     - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
     - Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
+- Automatic Trading System
+    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [[Code](https://github.com/jonghkim/coin-analyzer)]
 - Deep Learning for Time Series Analysis
     - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
 - Machine Vision and Deep Learning for Visual Recognition
