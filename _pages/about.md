@@ -16,11 +16,11 @@ last_modified_at: 2019-03-19
 
 ## EXPERIENCE
 ### Industrial Experience
----
+<!--
 - **December&Company Asset Management**, South Korea
     - *Quantitative Researcher*, May 2019~Current
     - Work as a Substitute for Mandatory Military Service
----
+-->
 - **NICE Pricing and Information**, South Korea
     - *Quantitative Researcher*, Aug 2016~Apr 2019
     - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
