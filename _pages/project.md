@@ -24,7 +24,7 @@ last_modified_at: 2019-03-19
     - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
     - Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
 - Automatic Trading System
-    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [[Code](https://github.com/jonghkim/coin-analyzer)]
+    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [Private Code]
 - Deep Learning for Time Series Analysis
     - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
 - Machine Vision and Deep Learning for Visual Recognition
