@@ -24,8 +24,8 @@ last_modified_at: 2018-09-10
 - Park, J., **Kim, J.** and Lee, B., 2016. "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", *International Conference on Information Systems (ICIS)*, Dublin, Ireland [[Manuscript](http://bit.ly/2uNnTQT)] [[Poster](http://bit.ly/2NtXj6S)]
 
 ## Working Papers
-- Park, J. and **Kim, J.**, 2018. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
-- Park, J., **Kim, J.**, Cho, D. and Lee, B., 2018. “Pitching with Style: The Role of the Entrepreneur’s Video Pitch on Online Crowdfunding”
-- **Kim, J.** and Lee, J., 2018. “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
-- Son, Y., **Kim, J.** and Oh, W., 2018. “Do People Really Care About How You Talk? Using Video Analytics to Understand Drop-out Rates in Online Education”
-- Jung, H., **Kim, J.**, Cho, D. and Han, Q., 2018. "Behavioral Contagion and Spillover over Investor Cognitive Network: Evidence from Online Social Media for Investment"
+- Park, J., **Kim, J.**, Cho, D. and Lee, B., 2019. "Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding"
+- **Kim, J.** and Lee, J., 2019. “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
+- Jung, H., **Kim, J.**, Cho, D. and Han, Q., 2019. "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors"
+- Park, J., **Kim, J.**, and Lee, B., 2019 “Co-Evolution of Automation and Nature of Work in the 21st Century,”
+- Park, J. and **Kim, J.**, 2019. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
