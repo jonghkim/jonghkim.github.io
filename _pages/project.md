@@ -24,10 +24,9 @@ last_modified_at: 2019-03-19
     - Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
     - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
     - Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
-- Automatic Trading System
-    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [Private Code]
 - Deep Learning for Time Series Analysis
     - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
+    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [Private Code]
 - Machine Vision and Deep Learning for Visual Recognition
     - Color based Hand Gesture Detection with OpenCV, *Work-in-Progress*
 - Browser Automation
