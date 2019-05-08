@@ -18,6 +18,7 @@ last_modified_at: 2019-03-19
 ### Industrial Experience
 - **December & Company Asset Management**, South Korea
     - *Quantitative Researcher* at Portfolio Research Team, Apr 2019~Current
+    - Develop Stock Selection and Portfolio Optimization Strategies based on Deep Learning Techniques
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information**, South Korea
