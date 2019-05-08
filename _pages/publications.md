@@ -8,7 +8,7 @@ last_modified_at: 2018-09-10
 ## Journal Publications
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
-## Conferences
+## Conference & Workshop Proceedings
 - Ko, Y., **Kim, J.** and Chung, M., 2019. “Reaping What You Sow: Social Networks and Success of Serial Entrepreneurs in Crowdfunding”, *Academy of Management (AOM)*, Boston, Massachusetts, USA
 - **Kim, J.** and Lee, J., 2018. “An Empirical Study of the Stages of New Product Development on Gender Difference”, *The Korea Academic Society of Industrial Organization (KASIO)*, Seoul, Korea
 - Park, J. and **Kim, J.**, 2018. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST)*, Phoenix, Arizona, USA

@@ -10,6 +10,7 @@ last_modified_at: 2019-03-19
 - The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, *LG CNS* (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
 ## Research Projects
+- Develop Task Automation Index, 2019, [[Homepage](http://jobautomation.pythonanywhere.com)], [[Code](https://github.com/jonghkim/job-automation-index-web)], [[Paper](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/)]
 - Implement a Program that Extracts Personal Information of Analysts from Financial Reports, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
 - Build an Extensive Database that Integrates Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
 - Build a Database that Integrates Two Different Real Estate Data Sources, NAVER Real Estate and Kakao Real Estate through Self-developed Crawlers, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
