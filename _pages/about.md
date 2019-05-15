@@ -52,8 +52,12 @@ last_modified_at: 2019-03-19
     - Introduce an Algorithm Providing a Compressed Representation of an Irreducible Hamiltonian Matrix of the Spin-1/2 Heisenberg Antiferromagnet (Journal Publication in AIP Advances)
     - Suggest Optimal Control Strategies of Lotka–Volterra Equation to Protect Food Chain Extinction (Undergraduate Research Opportunity Program)
     - Awarded for Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data from Ministry of Science, ICT and Future Planning, Editor’s Picks from the American Institute of Physics and Selected for Undergraduate Research Opportunity Program
-    
-### Teaching Experience
+
+### Academic Experience
+#### Ad-hoc Reviewer
+- *International Conference on Information Systems (ICIS)*
+
+#### Teaching Experience
 - **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
 - **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
 - **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)]
