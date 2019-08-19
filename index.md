@@ -20,3 +20,4 @@ Welcome :)
     - “The electric light did not come from the continuous improvement of candles.” - *Oren Harari*
     - "Never forget that only dead fish swim with the stream." - *Malcolm Muggeridge*
     - “If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” - *Ivan Turgenev*
+    - “The best way to predict your future is to create it.” ― *Abraham Lincoln*
