@@ -9,7 +9,7 @@ last_modified_at: 2018-09-10
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Conference & Workshop Proceedings
-- Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", TREO Talk at *International Conference on Information Systems (ICIS)*, Munich, Germany
+- Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", TREO(Technology, Research, Education, Opinion) Talk at *International Conference on Information Systems (ICIS)*, Munich, Germany [[Link](https://github.com/mschermann/treoaticis2019)]
 - Ko, Y., **Kim, J.** and Chung, M., 2019. “Reaping What You Sow: Social Networks and Success of Serial Entrepreneurs in Crowdfunding”, *Academy of Management (AOM)*, Boston, Massachusetts, USA [[Manuscript](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.18931abstract)]
 - **Kim, J.** and Lee, J., 2018. “An Empirical Study of the Stages of New Product Development on Gender Difference”, *The Korea Academic Society of Industrial Organization (KASIO)*, Seoul, Korea
 - Park, J. and **Kim, J.**, 2018. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST)*, Phoenix, Arizona, USA
