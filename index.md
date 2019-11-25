@@ -21,3 +21,4 @@ Welcome :)
     - "Never forget that only dead fish swim with the stream." - *Malcolm Muggeridge*
     - “If we wait for the moment when everything, absolutely everything is ready, we shall never begin.” - *Ivan Turgenev*
     - “The best way to predict your future is to create it.” ― *Abraham Lincoln*
+    - "'Science progresses one funeral at a time.' The future depends on some graduate student who is deeply suspicious of everything I have said." - *Geoff Hinton*
