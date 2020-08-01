@@ -39,7 +39,7 @@ last_modified_at: 2019-03-19
 
 - **Markov Processes International**, Greater NY, USA
     - *Internship*, Jun 2012~Sep 2012
-    - Learn the Ground Theory of Finance, especially for Sharpe's Style Analysis and Analyze Korea's Mutual Funds
+    - Learn about the Mutual Fund Performance Attribution and Sharpe's Style Analysis
 
 ### Research Experience
 - **Digital Economics and Enterprise Research Lab**, KAIST
@@ -66,7 +66,7 @@ last_modified_at: 2019-03-19
 ### Leadership Experience
 - **Value Explorer**, UNIST Financial Club, Sep 2010~Dec 2013
     - *Vice President*, Sep 2010~Dec 2011
-    - Study Classical Theories in Finance and Lead Teams for Financial Competitions (4 awards) (Honored at Dongbu Financial Competition 2013; Honored at Insurance Industry Development Competition 2011; Excellence Prize at Assure Our Korea 2011; Excellent Paper Scholarship Award Citi-KIF 2011)
+    - Lead Teams for Financial Competitions (4 awards) (Honored at Dongbu Financial Competition 2013; Honored at Insurance Industry Development Competition 2011; Excellence Prize at Assure Our Korea 2011; Excellent Paper Scholarship Award Citi-KIF 2011)
 
 ## HONORS & AWARDS
 ### Research Paper Awards
