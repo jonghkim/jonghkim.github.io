@@ -24,7 +24,7 @@ last_modified_at: 2019-03-19
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information**, South Korea
-    - *Quantitative Researcher*, Aug 2016~Apr 2019
+    - *Quantitative Researcher* at Financial Engineering Center, Aug 2016~Apr 2019
     - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
