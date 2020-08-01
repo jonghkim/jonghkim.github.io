@@ -17,8 +17,11 @@ last_modified_at: 2019-03-19
 ## EXPERIENCE
 ### Industrial Experience
 - **December & Company Asset Management**, South Korea
-    - *Quantitative Researcher* at Portfolio Research Team, Apr 2019~Current
-    - Develop Stock Selection and Portfolio Optimization Strategies based on Deep Learning Techniques
+    - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
+    - Research on Textual Factor Models and Develop Generative Models to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB, 10-QSB)
+    - Develop Sector Rotation over Data-driven Economic Phase Prediction rather than using NBER or MA based Recession Indicators
+    - Construct Alternative Investment Strategies on Commodity, REITs, Infrastructure and High Dividend-Paying Universe
+
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information**, South Korea
