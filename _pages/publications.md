@@ -6,7 +6,7 @@ author_profile: true
 last_modified_at: 2018-09-10
 ---
 ## Conference & Workshop Proceedings
-- Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", TREO (Technology, Research, Education, Opinion) Talk at *International Conference on Information Systems (ICIS)*, Munich, Germany [[Link](https://github.com/mschermann/treoaticis2019)]
+- Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS)*, Munich, Germany
 - Ko, Y., **Kim, J.** and Chung, M., 2019. “Reaping What You Sow: Social Networks and Success of Serial Entrepreneurs in Crowdfunding”, *Academy of Management (AOM)*, Boston, Massachusetts, USA [[Manuscript](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.18931abstract)]
 - **Kim, J.** and Lee, J., 2018. “An Empirical Study of the Stages of New Product Development on Gender Difference”, *The Korea Academic Society of Industrial Organization (KASIO)*, Seoul, Korea
 - Park, J. and **Kim, J.**, 2018. "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach", *INFORMS Conference on Information Systems and Technology (CIST)*, Phoenix, Arizona, USA
