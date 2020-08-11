@@ -18,8 +18,8 @@ last_modified_at: 2019-03-19
 ### Industrial Experience
 - **December & Company Asset Management**, South Korea
     - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
-    - Research on Textual Factor Models and Develop Generative Models to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
-    - Develop Sector Rotation Strategy through Cross-Sectional Variation over Data-driven Economic Cycles
+    - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
+    - Develop the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies on High Dividend-Paying Universe, especially for Commodity, REITs and Infrastructure
     - Work as a Substitute for Mandatory Military Service
     
