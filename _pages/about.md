@@ -18,9 +18,9 @@ last_modified_at: 2019-03-19
 ### Industrial Experience
 - **December & Company Asset Management**, South Korea
     - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
-    - Research on Textual Factor Models and Develop Generative Models to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB, 10-QSB)
-    - Develop Sector Rotation over Data-driven Economic Phase Prediction rather than using NBER or MA based Recession Indicators
-    - Construct Alternative Investment Strategies on Commodity, REITs, Infrastructure and High Dividend-Paying Universe
+    - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
+    - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
+    - Construct Alternative Investment Strategies on High Dividend-Paying Universe, especially for Commodity, REITs and Infrastructure
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information**, South Korea
@@ -28,12 +28,12 @@ last_modified_at: 2019-03-19
     - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
-    - Implement Implied Volatility Surface of Index Futures Options (SPX, SX5E, KOSPI, NKY, HSI, HSCEI) via Heston Stochastic Volatility Model
+    - Implement Implied Volatility Surface of Index Futures Options (SPX, SX5E, KOSPI, NKY, HSI and HSCEI) via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
 - **NewsJAM (Startup Company)**, South Korea
     - *Chief Technology Officer (CTO)*, Jun 2013~Feb 2014
-    - Develop the Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
+    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
     - Selected as Open SW Incubator by National IT Industry Promotion Agency
     - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
