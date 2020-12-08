@@ -25,7 +25,7 @@ last_modified_at: 2018-09-10
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Manuscripts under Review
-- Park, J., **Kim, J.** and Cho, D., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under revision for 2nd round review at *MIS Quarterly*
+- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under revision for 2nd round review at *MIS Quarterly*
 - Park, J. and **Kim, J.** “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century,” under review, [[Homepage](http://www.jobautomationindex.com/)]
 
 ## Working Papers
