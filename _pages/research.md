@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /publication/
-title: "Publications"
+permalink: /research/
+title: "Research"
 author_profile: true
 last_modified_at: 2018-09-10
 ---
