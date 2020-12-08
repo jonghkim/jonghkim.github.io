@@ -26,7 +26,7 @@ last_modified_at: 2018-09-10
 
 ## Manuscripts under Review
 - Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under revision for 2nd round review at *MIS Quarterly*
-- Park, J. and **Kim, J.** “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century,” under review, [[Homepage](http://www.jobautomationindex.com/)]
+- Park, J. and **Kim, J.**, “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century,” under review, [[Homepage](http://www.jobautomationindex.com/)]
 
 ## Working Papers
 - Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors"
