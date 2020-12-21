@@ -20,7 +20,7 @@ last_modified_at: 2019-03-19
     - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
-    - Construct Alternative Investment Strategies on High Dividend-Paying Universe, especially for Commodity, REITs and Infrastructure
+    - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information**, South Korea
