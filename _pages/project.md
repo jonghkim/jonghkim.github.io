@@ -20,6 +20,8 @@ last_modified_at: 2019-03-19
 - Improve Overall Curriculum Design and Principles of Entrepreneurship MBA (SEMBA), *KAIST SEMBA* and *SK the Happiness Foundation* (Advisor: Dr. Kang, M. and Dr. Lee, B.), Jun 2016 ~ Nov 2016
 
 ## Personal Projects
+- Curating machine learning research in academic management journals
+    - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)]
 - Deep Learning for Natural Language Processing
     - Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
     - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
