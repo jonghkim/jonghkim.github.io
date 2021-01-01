@@ -33,3 +33,4 @@ last_modified_at: 2018-09-10
 - **Kim, J.** and Lee, J., “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
 - Park, J. and **Kim, J.**, "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
 - Son, Y., **Kim, J.** and Oh, W., “Do People Really Care About How You Talk? Using Video Analytics to Understand Drop-out Rates in Online Education”
+- **Kim, J.** and Park, J. “Does a Smile Turn Away Racial Prejudice? Effects of Facial Expressions on Racial Bias”
