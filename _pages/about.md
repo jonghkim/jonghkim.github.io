@@ -7,12 +7,12 @@ author_profile: true
 last_modified_at: 2019-03-19
 ---
 ## EDUCATION
-- **Cornell University (SC Johnson College of Business)** [(Cornell)](https://www.johnson.cornell.edu/)
+- **SC Johnson College of Business, Cornell University, Ithaca, NY, USA** (Sep 2021~)
     - Ph.D. student, Major: Quantitative Marketing (Management)
-- **Korea Advanced Institute of Science and Technology** [(KAIST)](https://www.kaist.ac.kr/)
+- **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S. degree, Major: Information Systems (Management Engineering)
     - Graduated with Best Graduate Student Paper Award
-- **Ulsan National Institute of Science and Technology** [(UNIST)](https://www.unist.ac.kr/)
+- **Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea** (Mar 2010~Aug 2014)
     - B.S. degree, Major: Computer Science and Engineering, Minor: Finance and Accounting
     - Dean’s List for Four Semesters, UNIST
 
