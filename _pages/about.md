@@ -8,33 +8,33 @@ last_modified_at: 2019-03-19
 ---
 ## EDUCATION
 - **SC Johnson College of Business, Cornell University, Ithaca, NY, USA** (Sep 2021~)
-    - Ph.D. student, Major: Quantitative Marketing (Management)
+    - Ph.D. Student, Major: Quantitative Marketing (Management)
 - **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (Feb 2015~Feb 2017)
-    - M.S. degree, Major: Information Systems (Management Engineering)
+    - M.S., Major: Information Systems (Management Engineering)
     - Graduated with Best Graduate Student Paper Award
 - **Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea** (Mar 2010~Aug 2014)
-    - B.S. degree, Major: Computer Science and Engineering, Minor: Finance and Accounting
+    - B.S., Major: Computer Science and Engineering, Minor: Finance and Accounting
     - Dean’s List for Four Semesters, UNIST
 
 ## EXPERIENCE
 ### Industrial Experience
-- **December & Company Asset Management, Seoul, South Korea** 
-    - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
+- **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
+    - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
-- **NICE Pricing and Information, Seoul, South Korea**
-    - *Quantitative Researcher* at Financial Engineering Center, Aug 2016~Apr 2019
+- **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
+    - *Quantitative Researcher* at Financial Engineering Center
     - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
     - Implement Implied Volatility Surface of Index Futures Options (SPX, SX5E, KOSPI, NKY, HSI and HSCEI) via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
-- **NewsJAM (Startup Company), Ulsan, South Korea**
-    - *Chief Technology Officer (CTO)*, Jun 2013~Feb 2014
+- **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
+    - *Chief Technology Officer (CTO)*
     - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
     - Selected as Open SW Incubator by National IT Industry Promotion Agency
     - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
