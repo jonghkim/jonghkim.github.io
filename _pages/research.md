@@ -12,13 +12,6 @@ last_modified_at: 2021-03-28
 - Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under revision for 2nd round review at *MIS Quarterly*
 - Park, J. and **Kim, J.**, “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century,” under review, [[Homepage](http://www.jobautomationindex.com/)]
 
-## Working Papers
-- Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors"
-- **Kim, J.** and Lee, J., “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
-- Park, J. and **Kim, J.**, "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
-- Son, Y., **Kim, J.** and Oh, W., “Do People Really Care About How You Talk? Using Video Analytics to Understand Drop-out Rates in Online Education”
-- **Kim, J.** and Park, J., “Does a Smile Turn Away Racial Prejudice? Effects of Facial Expressions on Racial Bias”
-
 ## Selected Conference & Workshop Proceedings
 - Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS)*, Munich, Germany
 - Ko, Y., **Kim, J.** and Chung, M., 2019. “Reaping What You Sow: Social Networks and Success of Serial Entrepreneurs in Crowdfunding”, *Academy of Management (AOM)*, Boston, Massachusetts, USA [[Manuscript](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.18931abstract)]
@@ -30,9 +23,9 @@ last_modified_at: 2021-03-28
 - **Kim, J.**, Cho, D. and Lee, B., 2016. “The Mind Behind Crowdfunding: An Empirical Study of Speech Emotion in Fundraising Success”, *International Conference on Information Systems (ICIS)*, Dublin, Ireland (**Most Innovative Research-in-Progress Paper Runner-up**) [[Manuscript](http://bit.ly/2JBcDw7)] [[Poster](http://bit.ly/2uMtwyH)]
 - Park, J., **Kim, J.** and Lee, B., 2016. "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", *International Conference on Information Systems (ICIS)*, Dublin, Ireland [[Manuscript](http://bit.ly/2uNnTQT)] [[Poster](http://bit.ly/2NtXj6S)]
 
-## Other Conference & Workshop Proceedings
-- Park, J., **Kim, J.** and Lee, B., 2017. "Are All Faces Created Equal? An Empirical Analysis of Face Disclosure and Facial Expression in Crowdfunding", *Post-ICIS KrAIS Research Workshop*, Seoul, Korea (**Best Student Paper Award**)
-- **Kim, J.** and Park, J., 2017. "The Anatomy of Facial Expression in Online Crowdfunding Platform: A Machine Learning Approach", *International Conference on Electronic Commerce (ICEC)*, Pangyo, Korea
-- **Kim, J.**, Lee, M., Cho, D. and Lee, B., 2016. “Mining the Crowdfunding: An Empirical Analysis of Market Structure in Kickstarter”, *International Conference on Electronic Commerce (ICEC)*, Suwon, Korea [[Manuscript](http://bit.ly/2JAE49E)]
-- Jung, H., **Kim, J.**, Cho, D. and Han, Q., 2017. "Disagreement Spillovers on Social Platform", *Korea Derivatives Association (KDA)*, Seoul, Korea
-- **Kim, J.** and Lee, J., 2018. “An Empirical Study of the Stages of New Product Development on Gender Difference”, *The Korea Academic Society of Industrial Organization (KASIO)*, Seoul, Korea
+## Working Papers
+- Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors"
+- **Kim, J.** and Lee, J., “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
+- Park, J. and **Kim, J.**, "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
+- Son, Y., **Kim, J.** and Oh, W., “Do People Really Care About How You Talk? Using Video Analytics to Understand Drop-out Rates in Online Education”
+- **Kim, J.** and Park, J., “Does a Smile Turn Away Racial Prejudice? Effects of Facial Expressions on Racial Bias”
