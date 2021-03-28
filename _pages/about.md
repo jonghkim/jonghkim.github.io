@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2019-03-19
 ---
 ## EDUCATION
-- **Cornell University** [(Cornell)](https://www.johnson.cornell.edu/)
+- **Cornell University (SC Johnson College of Business)** [(Cornell)](https://www.johnson.cornell.edu/)
     - Ph.D. student, Major: Quantitative Marketing (Management)
 - **Korea Advanced Institute of Science and Technology** [(KAIST)](https://www.kaist.ac.kr/)
     - M.S. degree, Major: Information Systems (Management Engineering)
