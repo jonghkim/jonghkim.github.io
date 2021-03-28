@@ -76,7 +76,7 @@ last_modified_at: 2019-03-19
 - Honored (4th Place) at Insurance Industry Development Competition, Korean Reinsurance Company, 2011
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
 
-## Invited Talks
+## INVITED TALKS
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
 - **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
 - **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
