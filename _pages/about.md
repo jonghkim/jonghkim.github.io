@@ -40,14 +40,14 @@ last_modified_at: 2019-03-19
     - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
 ### Research Experience
-- **Digital Economics and Enterprise Research Lab**, KAIST
-    - *Researcher* (Advisor: Dr. Byungtae Lee), May 2015~Feb 2017
+- **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
+    - *Researcher* (Advisor: Dr. Byungtae Lee)
     - Employ both Machine Learning and Econometrics for Exploring Researches in Information Systems and Economics of IS
     - Accepted Three Conference Papers in ICIS 2016 (Acceptance Rate < 20%) and One Conference Paper in ICEC 2016
     - Awarded for Most Innovative RIP Runner-Up in ICIS 2016, Best Graduate Student Paper Award in KAIST and Excellence Prize (2nd Place) at Future Idea Contest from KDI & Ministry of Strategy and Finance
 
-- **Computational Mathematical Science Lab**, UNIST
-    - *Researcher* (Advisor: Dr. Bongsoo Jang), Sep 2011~Feb 2015
+- **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
+    - *Researcher* (Advisor: Dr. Bongsoo Jang)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations
     - Introduce an Algorithm Providing a Compressed Representation of an Irreducible Hamiltonian Matrix of the Spin-1/2 Heisenberg Antiferromagnet (Journal Publication in AIP Advances)
     - Suggest Optimal Control Strategies of Lotka–Volterra Equation to Protect Food Chain Extinction (Undergraduate Research Opportunity Program)
