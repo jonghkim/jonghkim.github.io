@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2019-03-19
 ---
 ## EDUCATION
-- **SC Johnson College of Business, Cornell University, Ithaca, NY, USA** (Sep 2021~)
+- **Cornell University, Ithaca, NY, USA** (Sep 2021~)
     - Ph.D. Student, Major: Quantitative Marketing (Management)
 - **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S., Major: Information Systems (Management Engineering)
