@@ -9,10 +9,10 @@ last_modified_at: 2019-03-19
 ## EDUCATION
 - **Cornell University** [(Cornell)](https://www.johnson.cornell.edu/)
     - Ph.D. student, Major: Quantitative Marketing (Management)
-- **Korea Advanced Institute of Science and Technology** [(KAIST)](http://bit.ly/2mqiWtg)
+- **Korea Advanced Institute of Science and Technology** [(KAIST)](https://www.kaist.ac.kr/)
     - M.S. degree, Major: Information Systems (Management Engineering)
     - Graduated with Best Graduate Student Paper Award
-- **Ulsan National Institute of Science and Technology** [(UNIST)](http://bit.ly/2L8GpxU)
+- **Ulsan National Institute of Science and Technology** [(UNIST)](https://www.unist.ac.kr/)
     - B.S. degree, Major: Computer Science and Engineering, Minor: Finance and Accounting
     - Dean’s List for Four Semesters, UNIST
 
