@@ -18,14 +18,14 @@ last_modified_at: 2019-03-19
 
 ## EXPERIENCE
 ### Industrial Experience
-- **December & Company Asset Management**, South Korea
+- **December & Company Asset Management, Seoul, South Korea** 
     - *Quantitative Portfolio Manager* at Portfolio Research Team, Apr 2019~Current
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
-- **NICE Pricing and Information**, South Korea
+- **NICE Pricing and Information, Seoul, South Korea**
     - *Quantitative Researcher* at Financial Engineering Center, Aug 2016~Apr 2019
     - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
@@ -33,7 +33,7 @@ last_modified_at: 2019-03-19
     - Implement Implied Volatility Surface of Index Futures Options (SPX, SX5E, KOSPI, NKY, HSI and HSCEI) via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
-- **NewsJAM (Startup Company)**, South Korea
+- **NewsJAM (Startup Company), Ulsan, South Korea**
     - *Chief Technology Officer (CTO)*, Jun 2013~Feb 2014
     - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
     - Selected as Open SW Incubator by National IT Industry Promotion Agency
