@@ -37,10 +37,6 @@ last_modified_at: 2019-03-19
     - Selected as Open SW Incubator by National IT Industry Promotion Agency
     - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
-- **Markov Processes International**, Greater NY, USA
-    - *Internship*, Jun 2012~Sep 2012
-    - Learn about the Mutual Fund Performance Attribution and Sharpe's Style Analysis
-
 ### Research Experience
 - **Digital Economics and Enterprise Research Lab**, KAIST
     - *Researcher* (Advisor: Dr. Byungtae Lee), May 2015~Feb 2017
