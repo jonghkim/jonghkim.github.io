@@ -9,9 +9,9 @@ last_modified_at: 2019-03-19
 ## EDUCATION
 - **Cornell University, Ithaca, NY, USA** (Sep 2021~)
     - Ph.D. Student in Management (Major: Quantitative Marketing)
-- **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (Feb 2015~Feb 2017)
+- **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S. in Management Engineering (Major: Information Systems)
-- **Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea** (Mar 2010~Aug 2014)
+- **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
     - B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
 ## EXPERIENCE
