@@ -8,13 +8,11 @@ last_modified_at: 2019-03-19
 ---
 ## EDUCATION
 - **Cornell University, Ithaca, NY, USA** (Sep 2021~)
-    - Ph.D. Student, Major: Quantitative Marketing (Management)
+    - Ph.D. Student in Management (Major: Quantitative Marketing)
 - **Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea** (Feb 2015~Feb 2017)
-    - M.S., Major: Information Systems (Management Engineering)
-    - Graduated with Best Graduate Student Paper Award
+    - M.S. in Management Engineering (Major: Information Systems)
 - **Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea** (Mar 2010~Aug 2014)
-    - B.S., Major: Computer Science and Engineering, Minor: Finance and Accounting
-    - Dean’s List for Four Semesters, UNIST
+    - B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
 ## EXPERIENCE
 ### Industrial Experience
@@ -53,26 +51,16 @@ last_modified_at: 2019-03-19
     - Suggest Optimal Control Strategies of Lotka–Volterra Equation to Protect Food Chain Extinction (Undergraduate Research Opportunity Program)
     - Awarded for Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data from Ministry of Science, ICT and Future Planning, Editor’s Picks from the American Institute of Physics and Selected for Undergraduate Research Opportunity Program
 
-### Academic Experience
-- **Ad-hoc Reviewer**, *International Conference on Information Systems (ICIS)*, 2019
-- **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
-- **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
-- **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)]
-- **Teaching Assistant**, Principles of Economics, UNIST (2014)
-- **Tutoring**, Calculus II, UNIST (2011, 2012)
-
-### Leadership Experience
-- **Value Explorer**, UNIST Financial Club, Sep 2010~Dec 2013
-    - *Vice President*, Sep 2010~Dec 2011
-    - Lead Teams for Financial Competitions (4 awards) (Honored at Dongbu Financial Competition 2013; Honored at Insurance Industry Development Competition 2011; Excellence Prize at Assure Our Korea 2011; Excellent Paper Scholarship Award Citi-KIF 2011)
-
 ## HONORS & AWARDS
-### Research Paper Awards
+### Academic Awards & Scholarships
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
 - **Most Innovative Research-in-Progress Paper Runner-Up**, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
 - Editor’s Picks from the American Institute of Physics, *AIP Advances*, 2016
+- Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
+- Dean’s List for Four Semesters, UNIST
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
+- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 
 ### Entrepreneurial Awards
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
@@ -88,9 +76,19 @@ last_modified_at: 2019-03-19
 - Honored (4th Place) at Insurance Industry Development Competition, Korean Reinsurance Company, 2011
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
 
-### Academic Scholarship
-- KAIST Scholarship, KAIST, 2015~2016
-- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
+## Invited Talks
+- **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
+- **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
+- **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
+- **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)]
+
+## SERVICES
+- **Ad-hoc Reviewer**
+    - International Conference on Information Systems (ICIS), 2019
+- **Teaching Assistant**
+    - Principles of Economics, UNIST (2014)
+- **Tutoring**
+    - Calculus II, UNIST (2011, 2012)
 
 ## OTHER INFORMATION
 ### Language
