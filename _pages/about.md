@@ -6,16 +6,16 @@ toc: true
 author_profile: true
 last_modified_at: 2019-03-19
 ---
-## EDUCATION
-**Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
-- Ph.D. Student in Management (Major: Quantitative Marketing)
-**Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
-- M.S. in Management Engineering (Major: Information Systems)
-**Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
-- B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
+# Education
+- **Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
+    - Ph.D. Student in Management (Major: Quantitative Marketing)
+- **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
+    - M.S. in Management Engineering (Major: Information Systems)
+- **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
+    - B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
-## EXPERIENCE
-### Research Experience
+# Experience
+## Research Experience
 **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
 - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
     - Impact of Speech Emotion in Fundraising Success (ICIS 2016, Awarded for Most Innovative Research-in-Progress Paper Runner-Up)
@@ -27,7 +27,7 @@ last_modified_at: 2019-03-19
     - Compressed Representation of the Hamiltonian Matrix (AIP Advances)
     - Optimal Control Strategies of Lotka–Volterra Equation (Undergraduate Research Opportunity Program)
 
-### Industrial Experience
+## Industrial Experience
 **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
 - *Quantitative Portfolio Manager* at Portfolio Research Team
 - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
@@ -50,7 +50,7 @@ last_modified_at: 2019-03-19
 - Selected as Open SW Incubator by National IT Industry Promotion Agency
 - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
-## HONORS & AWARDS
+# HONORS & AWARDS
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
 - **Most Innovative Research-in-Progress Paper Runner-Up**, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
@@ -66,13 +66,13 @@ last_modified_at: 2019-03-19
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
 - National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 
-## INVITED TALKS
+# INVITED TALKS
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
 - **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
 - **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
 - **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)]
 
-## SERVICES
+# SERVICES
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
@@ -81,11 +81,11 @@ last_modified_at: 2019-03-19
     - Tutoring, Calculus II, UNIST, 2012
     - Tutoring, Calculus II, UNIST, 2011
 
-## OTHER INFORMATION
-### Language
+# OTHER INFORMATION
+## Language
 - Korean (Native), English (Fluent)
 
-### Technical Skills
+## Technical Skills
 - Language: Python, C/C++, Matlab, STATA
 - ML: Tensorflow, Keras, Pytorch, Torch, Scikit-learn
 - Parallel Computing: MPI, OpenMP
@@ -97,7 +97,7 @@ last_modified_at: 2019-03-19
 - Asynchronous Task and Process Control: Crontab, Celery, Flower, Supervisor
 - Geoprocessing: ArcGIS
 
-### Selected Coursework Training
+## Selected Coursework Training
 - Graduate: Business Modeling Analysis, Classical Readings in Information Systems Research, Research Methodology for Management, IT Management, Business Media and Communication, Statistical Analysis for Behavioral Science, Research Methods in Behavioral Science, Microeconomic Analysis, Industrial Organization, Investments in Private Markets, Mergers and Acquisitions
 
 - Undergraduate: Machine Learning, Artificial Intelligence, Introduction to Algorithms, Object Oriented Programming, Data Structures, Computer Organization, Operating Systems, Discrete Mathematics, Differential Equations, Applied Linear Algebra, Probability and Introduction to Random Processes, Mathematical Analysis I, Complex Analysis I, Calculus I, Calculus II, Statistics, Economics, Microeconomics, Macroeconomics, Investments, Derivatives, Financial Management, Financial Accounting, Financial Engineering, Money and Banking, Data Analysis & Decision Making
