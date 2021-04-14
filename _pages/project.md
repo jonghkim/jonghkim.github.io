@@ -11,7 +11,7 @@ last_modified_at: 2021-4-15
 
 ## Research Projects
 - Visualization
-    - Network Visualization for ["Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation"](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/), 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]\
+    - Network Visualization for "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]
 - Collecting Papers
     - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)], Dec 2020
 - Database
