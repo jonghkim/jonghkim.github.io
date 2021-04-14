@@ -10,11 +10,11 @@ last_modified_at: 2021-03-28
 
 ## Working Papers
 ### Manuscripts under Review
-- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under revision for 2nd round review at *MIS Quarterly*
-- Park, J. and **Kim, J.**, “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century,” under review, [[Homepage](http://www.jobautomationindex.com/)]
+- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under 2nd round review at *MIS Quarterly*
+- Park, J. and **Kim, J.**, “A Data-Driven Exploration of the Race between Man and Machine in the 21st Century”, under review, [[Homepage](http://www.jobautomationindex.com/)]
+- Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors", under review
 
 ### Manuscripts in Preparation for Submission
-- Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors"
 - **Kim, J.** and Lee, J., “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
 - Park, J. and **Kim, J.**, "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
 - **Kim, J.** and Park, J., “Does a Smile Turn Away Racial Prejudice? Effects of Facial Expressions on Racial Bias”
