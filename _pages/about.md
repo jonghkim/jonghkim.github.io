@@ -18,9 +18,12 @@ last_modified_at: 2019-03-19
 ### Research Experience
 - **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
+    - Accepted Three Conference Papers in ICIS 2016 (Acceptance Rate < 20%) and Awarded for the Most Innovative Research-in-Progress Award (Runner-Up)in ICIS 2016
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
+    - Pulished a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research
+Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 ### Industrial Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
@@ -47,6 +50,7 @@ last_modified_at: 2019-03-19
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
+- Dean’s List for Four Semesters, UNIST
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
