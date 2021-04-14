@@ -1,17 +1,16 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
 toc: true
 author_profile: true
 last_modified_at: 2019-03-19
 ---
 # Education
-- **Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
+**Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
     - Ph.D. Student in Management (Major: Quantitative Marketing)
-- **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
+**Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S. in Management Engineering (Major: Information Systems)
-- **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
+**Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
     - B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
 # Experience
