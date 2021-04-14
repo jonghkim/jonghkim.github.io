@@ -18,7 +18,7 @@ last_modified_at: 2019-03-19
 ### Research Experience
 - **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
-    - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Award (Runner-Up) in ICIS 2016
+    - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
