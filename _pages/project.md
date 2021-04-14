@@ -29,11 +29,9 @@ ml_mngt:
 - The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, *LG CNS* (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
 ## Research Projects
-- Collecting Papers
-    - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)], Dec 2020
+<h1> Future of Work</h1>
     {% include feature_row id="ml_mngt" %}
-- Visualization
-    - Network Visualization for ["Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation"](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/), 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]
+<h1> Machine Learning & Management Research </h1>
     {% include feature_row id="future_of_work"%}
 - Database
     - Personal Information of Financial Analysts, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
