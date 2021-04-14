@@ -11,14 +11,14 @@ last_modified_at: 2019-03-19
 
 ## Research Projects
 - Collecting Papers
-    - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)]
+    - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)], Dec 2020
 - Visualization
-    - Develop a Network Visualization Page for ["Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation"](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/), 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]
+    - Network Visualization for ["Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation"](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/), 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]
 - Database
-    - Implement a Program that Extracts Personal Information of Analysts from Financial Reports, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
-    - Build an Extensive Database that Integrates Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
-    - Build a Database that Integrates Two Different Real Estate Data Sources, NAVER Real Estate and Kakao Real Estate through Self-developed Crawlers, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
-    - Merge Spam Mail Database with Financial Statements Based on the OpenAPI of Korea Financial Supervisory Service, *KAIST* (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
+    - Personal Information of Financial Analysts, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
+    - Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
+    - Real Estate Data from NAVER Real Estate and Kakao Real Estate, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
+    - Spam Mail Database with Financial Statements, *KAIST* (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
 
 ## Open Source Projects
 - Natural Language Processing (NLP)
