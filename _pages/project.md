@@ -4,6 +4,25 @@ permalink: /project/
 title: "Project"
 author_profile: true
 last_modified_at: 2019-03-19
+
+future_of_work:
+  - image_path: /assets/images/job_automation_index.png
+    alt: "skill_dna_of_jobs"
+    title: "Job Automation Index"
+    excerpt: "A data-driven exploration of the race between human tasks and automation technology."
+    url: http://www.jobautomationindex.com/
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+ml_mngt:
+  - image_path: /assets/images/ml-mngt.png
+    alt: "ml_management"
+    title: "Awesome ML & Management Research"
+    excerpt: "A curated list of machine learning research in academic management journals."
+    url: https://github.com/jonghkim/awesome-machine-learning-management-research/
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
+
 ---
 ## Industrial Projects
 - Strategies for Online to Offline (O2O) Transport Services, *The Korea Transport Institute* (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
@@ -12,8 +31,10 @@ last_modified_at: 2019-03-19
 ## Research Projects
 - Collecting Papers
     - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)], Dec 2020
+    {% include feature_row id="ml_mngt" %}
 - Visualization
     - Network Visualization for ["Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation"](https://aisel.aisnet.org/icis2016/Sustainability/Presentations/8/), 2019, [[Homepage](http://jobautomation.pythonanywhere.com)]
+    {% include feature_row id="future_of_work"%}
 - Database
     - Personal Information of Financial Analysts, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
     - Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
