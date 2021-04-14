@@ -25,7 +25,5 @@ last_modified_at: 2019-03-19
     - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
 - Browser Automation
     - Browser Automation using Appscript (Mac) and xdotool (Ubuntu), 2018, [[Code](https://github.com/jonghkim/browser-automation-beyond-firewall)]
-- Data Labeling
+- Gender Classification
     - Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)]
-
-
