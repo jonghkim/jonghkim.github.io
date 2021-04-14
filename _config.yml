@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love the freedom to explore my own curiosity and let it lead my days."
   location         : "Seoul, Korea"
-  email            : "quantic.jh@gmail.com"
+  email            : "jk2352@cornell.edu"
   uri              :
   home             : "/about/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
