@@ -22,7 +22,7 @@ last_modified_at: 2019-03-19
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-    - Pulished a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research
+    - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research
 Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 ### Industrial Experience
@@ -40,7 +40,7 @@ Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
     - *Chief Technology Officer (CTO)*
-    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)])
+    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)])
 
 ## Honors & Awards
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
