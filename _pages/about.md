@@ -21,9 +21,8 @@ last_modified_at: 2019-03-19
     - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
-    - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-    - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research
-Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
+    - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
+    - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 ### Industrial Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
