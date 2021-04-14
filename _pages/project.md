@@ -5,7 +5,7 @@ title: "Project"
 author_profile: true
 last_modified_at: 2019-03-19
 
-future_of_work:
+research_projects:
   - image_path: /assets/images/job_automation_index.png
     alt: "skill_dna_of_jobs"
     title: "Job Automation Index"
@@ -13,8 +13,6 @@ future_of_work:
     url: http://www.jobautomationindex.com/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-
-ml_mngt:
   - image_path: /assets/images/ml-mngt.png
     alt: "ml_management"
     title: "Awesome ML & Management Research"
@@ -29,10 +27,8 @@ ml_mngt:
 - The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, *LG CNS* (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
 ## Research Projects
-<h1> Future of Work</h1>
-    {% include feature_row id="ml_mngt" %}
-<h1> Machine Learning & Management Research </h1>
-    {% include feature_row id="future_of_work"%}
+{% include feature_row id="research_projects" %}
+
 - Database
     - Personal Information of Financial Analysts, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
     - Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
