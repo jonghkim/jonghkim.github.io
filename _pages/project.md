@@ -32,7 +32,7 @@ research_projects:
 - Database
     - Personal Information of Financial Analysts, *Cass Business School in City University of London* (Advisor: Dr. Jung, J.), Apr 2017
     - Harvard Patent Database and ThomsonOne Database, *KAIST* (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
-    - Real Estate Data from NAVER Real Estate and Kakao Real Estate, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
+    - Real Estate Data from NAVER and Kakao Real Estate, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
     - Spam Mail Database with Financial Statements, *KAIST* (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
 
 ## Open Source Projects
