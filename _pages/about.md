@@ -37,8 +37,7 @@ last_modified_at: 2019-03-19
 
 - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
     - *Chief Technology Officer (CTO)*
-    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
-    - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
+    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)])
 
 ## Honors & Awards
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
