@@ -7,7 +7,7 @@ author_profile: true
 last_modified_at: 2019-03-19
 ---
 ## EDUCATION
-- **Cornell University, Ithaca, NY, USA** (Sep 2021~)
+- **Cornell University, Ithaca, NY, USA** (Aug 2021~)
     - Ph.D. Student in Management (Major: Quantitative Marketing)
 - **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S. in Management Engineering (Major: Information Systems)
