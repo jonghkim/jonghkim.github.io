@@ -50,7 +50,7 @@ Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
-- Dean’s List for Four Semesters, UNIST
+- Dean’s List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
