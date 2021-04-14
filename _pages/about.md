@@ -19,16 +19,17 @@ last_modified_at: 2019-03-19
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
+    - Analyze Individual Investors' Behavioral Biases on a Robo-Advisory Mobile App
     - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
     - *Quantitative Researcher* at Financial Engineering Center
-    - Implement Portfolio Optimization Modules for Asset Allocation of a Pension Fund, especially for Risk Factor Models
-    - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
-    - Implement Implied Volatility Surface of Index Futures Options (SPX, SX5E, KOSPI, NKY, HSI and HSCEI) via Heston Stochastic Volatility Model
+    - Implement Risk Factor Models for Asset Allocation of a Pension Fund
+    - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)    
+    - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
 - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
@@ -52,29 +53,20 @@ last_modified_at: 2019-03-19
     - Awarded for Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data from Ministry of Science, ICT and Future Planning, Editor’s Picks from the American Institute of Physics and Selected for Undergraduate Research Opportunity Program
 
 ## HONORS & AWARDS
-### Academic Awards & Scholarships
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
 - **Most Innovative Research-in-Progress Paper Runner-Up**, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
 - Editor’s Picks from the American Institute of Physics, *AIP Advances*, 2016
-- Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
-- Dean’s List for Four Semesters, UNIST
-- Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
-- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
-
-### Entrepreneurial Awards
-- Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
-- **Grand Prize (1st Place) at Korea Social Venture Competition** ($30,000 as award, Awarded by Minister of Employment and Labor), Korea Social Enterprise Promotion Agency, 2011
-- Deloitte Sponsorship at Korea Social Venture Competition ($5,000 as award), Anjin Deloitte LLC, 2011
-- SK Innovation Prize at Korea Social Venture Competition ($5,000 as award), SK Corporation, 2011
-
-### Hackathon & Idea Competition Awards
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
-- **Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data**, Ministry of Science, ICT and Future Planning, 2014
+- Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
+- Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
+- Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
+- Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
 - Excellence Prize (2nd Place) at Assure Our Korea, Korea Insurance Research Institution, 2011
 - Honored (4th Place) at Insurance Industry Development Competition, Korean Reinsurance Company, 2011
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
+- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 
 ## INVITED TALKS
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
@@ -85,19 +77,29 @@ last_modified_at: 2019-03-19
 ## SERVICES
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2019
-- **Teaching Assistant**
-    - Principles of Economics, UNIST (2014)
-- **Tutoring**
-    - Calculus II, UNIST (2011, 2012)
+    - International Conference on Electronic Commerce (ICEC), 2017
+- **Teaching Assistant & Tutoring**
+    - Principles of Economics, UNIST, 2014
+    - Tutoring, Calculus II, UNIST, 2012
+    - Tutoring, Calculus II, UNIST, 2011
 
 ## OTHER INFORMATION
 ### Language
 - Korean (Native), English (Fluent)
 
 ### Technical Skills
-- Language: Python, C/C++, Java, Matlab, STATA, Lisp, HTML, CSS, Javascript, VBA, SQL, NOSQL, Regular Expression (Regex); Machine Learning: Tensorflow, Keras, Pytorch, Torch, Scikit-learn; Image Processing: OpenCV; Speech Analysis: Aubio, Ffmpeg; Web Crawling and Browser Automaton: Selenium, BeautifulSoup, Scrapy, Request, Urllib, Applescript; Network Analysis: Networkx, Gephi; Natural Language Processing (NLP): Gensim, OpenNMT, Topic Modeling; Web Development: Django, Vue.js, Jekyll; Parallel Computing: MPI, OpenMP, Multiprocessing; Data Handling: Pandas, Pickle, CSV; Database: MySQL, Sqlite3, Oracle DB, MongoDB, SQLAlchemy; Asynchronous Task: Crontab, Celery, Flower; Process Control: Supervisor; Data Visualization: D3.js; Geoprocessing: ArcGIS, Leaflet.js
+- Language: Python, C/C++, Matlab, STATA
+- ML: Tensorflow, Keras, Pytorch, Torch, Scikit-learn
+- Parallel Computing: MPI, OpenMP
+- Database: SQL, MySQL, Sqlite3, MongoDB
+- Network Analysis: Networkx, Gephi
+- NLP, Machine Vision & Speech: Gensim, OpenNMT, Regex, OpenCV, Aubio, Ffmpeg
+- Web Crawling & Browser Automaton: Selenium, BeautifulSoup, Scrapy, Urllib
+- Web Development & Data Visualization: Django, HTML, CSS, Javascript, D3.js, Leaflet.js
+- Asynchronous Task and Process Control: Crontab, Celery, Flower, Supervisor
+- Geoprocessing: ArcGIS
 
 ### Selected Coursework Training
-- Undergraduate: Machine Learning, Artificial Intelligence, Introduction to Algorithms, Object Oriented Programming, Data Structures, Computer Organization, Operating Systems, Discrete Mathematics, Differential Equations, Applied Linear Algebra, Probability and Introduction to Random Processes, Mathematical Analysis I, Complex Analysis I, Calculus I, Calculus II, Statistics, Economics, Microeconomics, Macroeconomics, Investments, Derivatives, Financial Management, Financial Accounting, Financial Engineering, Money and Banking, Data Analysis & Decision Making
-
 - Graduate: Business Modeling Analysis, Classical Readings in Information Systems Research, Research Methodology for Management, IT Management, Business Media and Communication, Statistical Analysis for Behavioral Science, Research Methods in Behavioral Science, Microeconomic Analysis, Industrial Organization, Investments in Private Markets, Mergers and Acquisitions
+
+- Undergraduate: Machine Learning, Artificial Intelligence, Introduction to Algorithms, Object Oriented Programming, Data Structures, Computer Organization, Operating Systems, Discrete Mathematics, Differential Equations, Applied Linear Algebra, Probability and Introduction to Random Processes, Mathematical Analysis I, Complex Analysis I, Calculus I, Calculus II, Statistics, Economics, Microeconomics, Macroeconomics, Investments, Derivatives, Financial Management, Financial Accounting, Financial Engineering, Money and Banking, Data Analysis & Decision Making
