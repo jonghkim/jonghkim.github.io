@@ -2,10 +2,9 @@
 layout: single
 permalink: /about/
 title: "About"
-classes: moderate_wide
 toc: true
 author_profile: true
-last_modified_at: 2019-03-19
+last_modified_at: 2021-4-15
 ---
 ## Education
 - **Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)

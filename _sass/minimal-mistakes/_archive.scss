@@ -360,32 +360,3 @@
     }
   }
 }
-
-/*
-   Moderate Wide Pages
-   ========================================================================== */
-   .moderate_wide {
-    .page {
-      @include breakpoint($large) {
-        width: calc(100% - #{$right-sidebar-width-very-narrow});
-        padding-right: $right-sidebar-width-very-narrow;        
-      }
-  
-      @include breakpoint($x-large) {
-        width: calc(100% - #{$right-sidebar-width-narrow});
-        padding-right: $right-sidebar-width-narrow;
-      }
-    }
-  
-    .page__related {
-      @include breakpoint($large) {
-        width: calc(100% - #{$right-sidebar-width-very-narrow});
-        padding-right: $right-sidebar-width-very-narrow;        
-      }
-  
-      @include breakpoint($x-large) {
-        width: calc(100% - #{$right-sidebar-width-narrow});
-        padding-right: $right-sidebar-width-narrow;
-      }
-    }
-  }

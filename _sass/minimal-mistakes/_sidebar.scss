@@ -307,35 +307,3 @@
     margin-right: initial;
   }
 }
-
-/*
-   Moderate Wide Pages
-   ========================================================================== */
-
-
-.moderate_wide .sidebar__right {
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    position: initial;
-    top: initial;
-    right: initial;
-    width: initial;
-    margin-right: initial;
-    padding-left: initial;
-    z-index: initial;
-
-    &.sticky {
-      float: none;
-    }
-  }
-
-  @include breakpoint($large) {
-    width: calc(#{$right-sidebar-width-very-narrow} - 1em);
-    margin-right: initial;
-  }
-
-  @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
-  }
-}
