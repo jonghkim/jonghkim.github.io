@@ -18,14 +18,14 @@ last_modified_at: 2019-03-19
 ### Research Experience
 - **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
-        - Impact of Speech Emotion in Fundraising Success (ICIS 2016, Awarded for Most Innovative Research-in-Progress Paper Runner-Up)
-        - Spillover Effects of Blockbusters in Online Crowdfunding (ICIS 2016)
-        - Measuring Task-Level Automation through Two-mode Networks (ICIS 2016)
+        Impact of Speech Emotion in Fundraising Success (ICIS 2016, Awarded for Most Innovative Research-in-Progress Paper Runner-Up)
+        Spillover Effects of Blockbusters in Online Crowdfunding (ICIS 2016)
+        Measuring Task-Level Automation through Two-mode Networks (ICIS 2016)
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-        - Compressed Representation of the Hamiltonian Matrix (AIP Advances)
-        - Optimal Control Strategies of Lotka–Volterra Equation (Undergraduate Research Opportunity Program)
+        Compressed Representation of the Hamiltonian Matrix (AIP Advances)
+        Optimal Control Strategies of Lotka–Volterra Equation (Undergraduate Research Opportunity Program)
 
 ### Industrial Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
