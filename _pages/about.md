@@ -28,12 +28,14 @@ last_modified_at: 2019-03-19
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
-    - Analyze Individual Investors' Behavioral Biases on a Robo-Advisory Mobile App
+    - Implement a Sector Rotation Strategy through Cross-Sectional Variation over Data-driven Economic Cycles
+    - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
     - *Quantitative Researcher* at Financial Engineering Center
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
+    - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
