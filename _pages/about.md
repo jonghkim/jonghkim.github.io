@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 title: "About"
-toc: true
+toc: false
 author_profile: true
 last_modified_at: 2019-03-19
 ---
