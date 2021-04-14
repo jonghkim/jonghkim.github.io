@@ -317,31 +317,22 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    /* fix z-index order of follow links */
-    position: relative;
-    z-index: 10;
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    position: initial;
+    top: initial;
+    right: initial;
+    width: initial;
+    margin-right: initial;
+    padding-left: initial;
+    z-index: initial;
+
+    &.sticky {
+      float: none;
+    }
   }
 
   @include breakpoint($large) {
-    float: left;
     width: calc(#{$right-sidebar-width-very-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
-
-    &.sticky {
-      overflow-y: auto;
-      /* calculate height of nav list */
-      height: calc(
-        100vh - 90px - 2em
-      ); // viewport height - approx. masthead height - main content top margin
-    }
+    margin-right: initial;
   }
 
   @include breakpoint($x-large) {
