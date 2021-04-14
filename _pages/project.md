@@ -16,24 +16,16 @@ last_modified_at: 2019-03-19
 - Build a Database that Integrates Two Different Real Estate Data Sources, NAVER Real Estate and Kakao Real Estate through Self-developed Crawlers, *KAIST* (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
 - Merge Spam Mail Database with Financial Statements Based on the OpenAPI of Korea Financial Supervisory Service, *KAIST* (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
 
-## Academic Projects
-- Improve Overall Curriculum Design and Principles of Entrepreneurship MBA (SEMBA), *KAIST SEMBA* and *SK the Happiness Foundation* (Advisor: Dr. Kang, M. and Dr. Lee, B.), Jun 2016 ~ Nov 2016
-
-## Personal Projects
-- Curating Machine Learning Research in Academic Management Journals
-    - Awesome Machine Learning & Management Research [[Link](https://github.com/jonghkim/awesome-machine-learning-management-research)]
-- Deep Learning for Natural Language Processing
+## Open Source Projects
+- Natural Language Processing (NLP)
     - Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
     - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
     - Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
-- Deep Learning for Time Series Analysis
+- Time Series Prediction
     - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
-    - Develop an Automatic Trading System using Coinone API, MongoDB, Celery, Supervisor, Django and Slack API with Comprehensive Trading Algorithms, 2018, [Private Code]
-- Machine Vision and Deep Learning for Visual Recognition
-    - Color based Hand Gesture Detection with OpenCV, *Work-in-Progress*
 - Browser Automation
     - Browser Automation using Appscript (Mac) and xdotool (Ubuntu), 2018, [[Code](https://github.com/jonghkim/browser-automation-beyond-firewall)]
-- Open Data
+- Data Labeling
     - Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)]
 
 
