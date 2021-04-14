@@ -21,28 +21,23 @@ last_modified_at: 2019-03-19
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-    
+
 ### Industrial Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Analyze Individual Investors' Behavioral Biases on a Robo-Advisory Mobile App
-    - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
-    - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
 - **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
     - *Quantitative Researcher* at Financial Engineering Center
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
-    - Implement Risk Factor Models for Asset Allocation of a Pension Fund
-    - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)    
     - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
 - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
     - *Chief Technology Officer (CTO)*
     - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
-    - Selected as Open SW Incubator by National IT Industry Promotion Agency
     - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
 ## Honors & Awards
