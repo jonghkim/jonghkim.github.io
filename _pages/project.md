@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /project/
-title: "Projects"
+title: "Project"
 author_profile: true
 last_modified_at: 2019-03-19
 ---
