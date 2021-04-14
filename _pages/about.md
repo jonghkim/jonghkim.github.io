@@ -7,48 +7,48 @@ author_profile: true
 last_modified_at: 2019-03-19
 ---
 ## EDUCATION
-- **Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
-    - Ph.D. Student in Management (Major: Quantitative Marketing)
-- **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
-    - M.S. in Management Engineering (Major: Information Systems)
-- **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
-    - B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
+**Cornell University (SC Johnson College of Business), Ithaca, NY, USA** (Aug 2021~)
+- Ph.D. Student in Management (Major: Quantitative Marketing)
+**Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
+- M.S. in Management Engineering (Major: Information Systems)
+**Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
+- B.S. in School of Electrical & Computer Englneering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
 ## EXPERIENCE
 ### Research Experience
-- **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
-    - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
-        Impact of Speech Emotion in Fundraising Success (ICIS 2016, Awarded for Most Innovative Research-in-Progress Paper Runner-Up)
-        Spillover Effects of Blockbusters in Online Crowdfunding (ICIS 2016)
-        Measuring Task-Level Automation through Two-mode Networks (ICIS 2016)
+**Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
+- Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
+    - Impact of Speech Emotion in Fundraising Success (ICIS 2016, Awarded for Most Innovative Research-in-Progress Paper Runner-Up)
+    - Spillover Effects of Blockbusters in Online Crowdfunding (ICIS 2016)
+    - Measuring Task-Level Automation through Two-mode Networks (ICIS 2016)
 
-- **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
-    - Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-        Compressed Representation of the Hamiltonian Matrix (AIP Advances)
-        Optimal Control Strategies of Lotka–Volterra Equation (Undergraduate Research Opportunity Program)
+**Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
+- Research and Study for Complex Network and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
+    - Compressed Representation of the Hamiltonian Matrix (AIP Advances)
+    - Optimal Control Strategies of Lotka–Volterra Equation (Undergraduate Research Opportunity Program)
 
 ### Industrial Experience
-- **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
-    - *Quantitative Portfolio Manager* at Portfolio Research Team
-    - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
-    - Analyze Individual Investors' Behavioral Biases on a Robo-Advisory Mobile App
-    - Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
-    - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
-    - Work as a Substitute for Mandatory Military Service
+**December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
+- *Quantitative Portfolio Manager* at Portfolio Research Team
+- Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
+- Analyze Individual Investors' Behavioral Biases on a Robo-Advisory Mobile App
+- Implement the Sector Rotation Strategy through the Cross-Sectional Variation over Data-driven Economic Cycles
+- Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
+- Work as a Substitute for Mandatory Military Service
     
-- **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
-    - *Quantitative Researcher* at Financial Engineering Center
-    - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
-    - Implement Risk Factor Models for Asset Allocation of a Pension Fund
-    - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)    
-    - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
-    - Work as a Substitute for Mandatory Military Service
+**NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
+- *Quantitative Researcher* at Financial Engineering Center
+- Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
+- Implement Risk Factor Models for Asset Allocation of a Pension Fund
+- Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)    
+- Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
+- Work as a Substitute for Mandatory Military Service
 
-- **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
-    - *Chief Technology Officer (CTO)*
-    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
-    - Selected as Open SW Incubator by National IT Industry Promotion Agency
-    - Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
+**NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
+- *Chief Technology Officer (CTO)*
+- Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering
+- Selected as Open SW Incubator by National IT Industry Promotion Agency
+- Presented in PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]
 
 ## HONORS & AWARDS
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
