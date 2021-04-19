@@ -257,6 +257,14 @@
         </li>
       {% endif %}
 
+      {% if author.google_scholar %}
+        <li>
+          <a href="https://scholar.google.co.kr/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-google_plus" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
