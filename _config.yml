@@ -32,7 +32,7 @@ comments:
     shortname            : "github-blog-16" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook: 
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -111,7 +111,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "fb.jongho.kim"
   foursquare       :
   github           : "jonghkim"
   gitlab           :
@@ -130,7 +130,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  google_scholar   : https://scholar.google.co.kr/citations?user=hNXJ2fsAAAAJ&hl=en
+  google_scholar   : hNXJ2fsAAAAJ
 
 
 # Reading Files
