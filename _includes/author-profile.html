@@ -153,9 +153,9 @@
         </li>
       {% endif %}
 
-      {% if author.gitlab %}
+      {% if author.blog %}
         <li>
-          <a href="/" itemprop="sameAs">
+          <a href="{{ author.blog }}" itemprop="sameAs">
             <i class="fab fa-fw fa-sticky-note" aria-hidden="true"></i> Blog
           </a>
         </li>
