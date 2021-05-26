@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-Welcome :) 
+Hello :) 
 
 ![Jongho Kim](/assets/images/bio-presentation.jpg){: style="width: 50%; margin: 0 auto; display: block;"}
 

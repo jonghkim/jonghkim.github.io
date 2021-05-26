@@ -155,6 +155,14 @@
 
       {% if author.gitlab %}
         <li>
+          <a href="/" itemprop="sameAs">
+            <i class="fab fa-fw fa-sticky-note" aria-hidden="true"></i> Blog
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if author.gitlab %}
+        <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
             <i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
           </a>
