@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Jongho Kim"
-  avatar           : "/assets/images/bio-photo2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love the freedom to explore my own curiosity and let it lead my days."
   location         : "Seoul, Korea"
   email            : "jk2352@cornell.edu"
