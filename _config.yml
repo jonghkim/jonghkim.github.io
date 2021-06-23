@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Jongho Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student of Quantitative Marketing, Cornell University"
+  bio              : "PhD student in Quantitative Marketing at Johnson, Cornell University" # I love the freedom to explore my own curiosity and let it lead my days.
   location         : "Ithaca, NY"
   email            : "jk2352@cornell.edu"
   uri              :
