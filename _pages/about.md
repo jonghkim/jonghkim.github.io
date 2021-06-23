@@ -68,6 +68,7 @@ last_modified_at: 2021-4-15
 
 ## Services
 - **Ad-hoc Reviewer**
+    - International Conference on Information Systems (ICIS), 2021
     - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
 - **Teaching Assistant & Tutoring**
