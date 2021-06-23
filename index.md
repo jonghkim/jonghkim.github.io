@@ -2,7 +2,11 @@
 layout: single
 author_profile: true
 ---
-I am a first-year PhD student in Quantitative Marketing at Johnson, Cornell University. My current research examines the application of machine learning in empirical management research, while exploring its underlying mechanisms. Prior to joining the doctoral program, I practiced in Seoul for several years with the tech startups where I was involved in projects developing statistical methodologies and applying them to high dimensional data. I received a MS in Information Systems from KAIST and a BS in Computer Science and Engineering from UNIST.
+I am a first-year PhD student in Quantitative Marketing at Johnson, Cornell University. My current research examines the application of machine learning in empirical management research, while exploring its underlying mechanisms. 
+
+Prior to joining the doctoral program, I practiced in Seoul for several years with the tech startups where I was involved in projects developing statistical methodologies and applying them to high dimensional data. 
+
+I received a MS in Information Systems from KAIST and a BS in Computer Science and Engineering from UNIST.
 
 ![Jongho Kim](/assets/images/bio-presentation.jpg){: style="width: 50%; margin: 0 auto; display: block;"}
 
