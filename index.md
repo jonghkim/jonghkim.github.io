@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-# Jongho Kim
+## Jongho Kim
 I am a first-year PhD student in Quantitative Marketing at Johnson, Cornell University. 
 
 My current research examines the application of machine learning in empirical management research, while exploring its underlying mechanisms. 
