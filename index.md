@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Biography"
+title: "Welcome :)"
 author_profile: true
 ---
 I am a first-year PhD student in Quantitative Marketing at Johnson, Cornell University. 
