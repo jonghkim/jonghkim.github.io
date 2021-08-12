@@ -25,7 +25,7 @@ last_modified_at: 2021-4-15
     - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 ### Industrial Experience
-- **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Current)
+- **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Jul 2021)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement a Sector Rotation Strategy through Cross-Sectional Variation over Data-driven Economic Cycles
