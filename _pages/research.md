@@ -11,7 +11,7 @@ last_modified_at: 2021-03-28
 
 ## Working Papers
 ### Manuscripts under Review
-- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under 2nd round review at *MIS Quarterly*
+- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under 3nd round review at *MIS Quarterly*
 - Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors", under review
 
 ### Manuscripts in Preparation for Submission
