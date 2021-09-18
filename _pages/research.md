@@ -7,7 +7,7 @@ last_modified_at: 2021-03-28
 ---
 ## Journal Publications
 - Park, J. and **Kim, J.**, 2021. “A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century”, *Communications of the ACM*, forthcoming, [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)] [[Homepage](http://www.jobautomationindex.com/)]
-- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances*, 2016 (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
+- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Working Papers
 ### Manuscripts under Review
