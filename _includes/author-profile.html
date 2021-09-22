@@ -100,7 +100,15 @@
       {% if author.google_scholar %}
         <li>
           <a href="https://scholar.google.co.kr/citations?user={{ author.google_scholar }}" itemprop="url">
-            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Google Scholar
+            <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.ssrn %}
+        <li>
+          <a href="https://scholar.google.co.kr/citations?user={{ author.ssrn }}" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> SSRN
           </a>
         </li>
       {% endif %}
