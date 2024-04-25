@@ -13,6 +13,7 @@ I received an MS in Information Systems from KAIST and a BS in Computer Science 
 ![Jongho Kim](/assets/images/bio-presentation.jpg){: style="width: 50%; margin: 0 auto; display: block;"}
 
 Here are some list of things I believe in:
+- "Success is not final. Failure is not fatal. It is the courage to continue that counts." - *Winston S. Churchill*
 - “The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” - *George Bernard Shaw*, Man and Superman
 - "Carpe diem. Seize the day, boys. Make your lives extraordinary.” - *John Keating*, Dead Poets Society
 - "Imagination is more important than knowledge, because knowledge is limited.” - *Albert Einstein*
