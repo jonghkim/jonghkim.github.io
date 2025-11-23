@@ -6,3 +6,21 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Custom width adjustments
+.page {
+  @include breakpoint($large) {
+    width: calc(100% - 300px);  // Default is calc(100% - 300px)
+    padding-right: 200px;        // Default is 200px
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - 300px);  // Default is calc(100% - 300px)
+    padding-right: 200px;        // Default is 200px
+  }
+}
+
+// Increase max-width for single layout content
+.page__content {
+  max-width: 100%;  // Default is 100%
+}
