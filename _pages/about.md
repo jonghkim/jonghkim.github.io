@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 toc: true
 author_profile: true
-last_modified_at: 2021-4-15
+last_modified_at: 2025-11-22
 ---
 ## Education
 - **Cornell University (SC Johnson Graduate School of Management), Ithaca, NY, USA** (Aug 2021~)
@@ -64,6 +64,19 @@ last_modified_at: 2021-4-15
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
 - National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 
+## Projects
+### Research Projects
+- Network Visualization for "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", 2019, [[Job Automation Index](https://jobautomationindex.com)]
+- Awesome Machine Learning & Management Research, Dec 2020, [[GitHub](https://github.com/jonghkim/awesome-machine-learning-management-research)]
+
+### Open Source Projects
+- Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
+- Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
+- Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
+- Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
+- Browser Automation using Appscript (Mac) and xdotool (Ubuntu), 2018, [[Code](https://github.com/jonghkim/browser-automation-beyond-firewall)]
+- Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)]
+
 ## Invited Talks
 - **Guest Lecturer**, Applications of Machine Learning in Marketing, Korea Summer Session on Causal Inference 2021 (Prof. Park, J.) (Jul 2021), [[Link](https://sites.google.com/view/causal-inference2021)]
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
@@ -77,6 +90,9 @@ last_modified_at: 2021-4-15
     - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
 - **Teaching Assistant & Tutoring**
+    - Teaching Assistant, NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
+    - Teaching Assistant, AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
+    - Teaching Assistant, NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
     - Teaching Assistant, Principles of Economics, UNIST, 2014
     - Tutoring, Calculus II, UNIST, 2012
     - Tutoring, Calculus II, UNIST, 2011
@@ -97,7 +113,9 @@ last_modified_at: 2021-4-15
 - Asynchronous Task and Process Control: Crontab, Celery, Flower, Supervisor
 - Geoprocessing: ArcGIS
 
-### Selected Coursework Training
-- Graduate: Business Modeling Analysis, Classical Readings in Information Systems Research, Research Methodology for Management, IT Management, Business Media and Communication, Statistical Analysis for Behavioral Science, Research Methods in Behavioral Science, Microeconomic Analysis, Industrial Organization, Investments in Private Markets, Mergers and Acquisitions
+### Selected Coursework
+- **Ph.D.**: Doctoral Seminar in Quantitative Models (Sachin Gupta; Nathan Yang; Omid Rafieian; Emaad Manzoor; Young-Hoon Park), Doctoral Seminar in Consumer Behavior (Stijn MJ van Osselaer), Bayesian Analysis for Research (Nikhil Garg), Bayesian Statistics and Data Analysis (David S. Matteson), Bayesian Statistics and Data Analysis (Dan Kowal), Microeconomic Theory I (David Easley), Behavioral Economics I (Ted O'Donoghue), (ECON) Econometrics 1 (Chen Qiu), (ECON) Econometrics II (Jörg Stoye), (AEM) Econometrics I (Shanjun Li), Econometrics and Machine Learning (Jose Luis Montiel Olea), Industrial Organization and Structural Methods (Adam Harris), Empirical Strategies for Policy Analysis (Douglas Miller), Causal Inference in Observational Settings (Ian Lundberg), Natural Language Processing (Claire Cardie), ML Special Topics (Fairness and Dynamics of Learning Systems; Thorsten Joachims), Machine Learning in Feedback Systems (Sarah Dean)
 
-- Undergraduate: Machine Learning, Artificial Intelligence, Introduction to Algorithms, Object Oriented Programming, Data Structures, Computer Organization, Operating Systems, Discrete Mathematics, Differential Equations, Applied Linear Algebra, Probability and Introduction to Random Processes, Mathematical Analysis I, Complex Analysis I, Calculus I, Calculus II, Statistics, Economics, Microeconomics, Macroeconomics, Investments, Derivatives, Financial Management, Financial Accounting, Financial Engineering, Money and Banking, Data Analysis & Decision Making
+- **M.S.**: Business Modeling Analysis, Classical Readings in Information Systems Research, Research Methodology for Management, IT Management, Business Media and Communication, Statistical Analysis for Behavioral Science, Research Methods in Behavioral Science, Microeconomic Analysis, Industrial Organization, Investments in Private Markets, Mergers and Acquisitions
+
+- **B.S.**: Machine Learning, Artificial Intelligence, Introduction to Algorithms, Object Oriented Programming, Data Structures, Computer Organization, Operating Systems, Discrete Mathematics, Differential Equations, Applied Linear Algebra, Probability and Introduction to Random Processes, Mathematical Analysis I, Complex Analysis I, Calculus I, Calculus II, Statistics, Economics, Microeconomics, Macroeconomics, Investments, Derivatives, Financial Management, Financial Accounting, Financial Engineering, Money and Banking, Data Analysis & Decision Making
