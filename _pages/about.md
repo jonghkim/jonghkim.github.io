@@ -8,7 +8,7 @@ last_modified_at: 2021-4-15
 ---
 ## Education
 - **Cornell University (SC Johnson Graduate School of Management), Ithaca, NY, USA** (Aug 2021~)
-    - Ph.D. Student in Management (Major: Quantitative Marketing)
+    - Ph.D. Candidate in Management (Major: Quantitative Marketing)
 - **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
     - M.S. in Management Engineering (Major: Information Systems)
 - **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
@@ -46,6 +46,7 @@ last_modified_at: 2021-4-15
 ## Honors & Awards
 - AMA-Sheth Doctoral Consortium Fellow, 2026
 - ISMS Doctoral Consortium Fellow, 2025
+- FinTech@Cornell Student Fellowship, 2022
 - Cornell SC Johnson College Doctoral Fellowship 2021-current
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
