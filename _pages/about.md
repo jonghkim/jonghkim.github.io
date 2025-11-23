@@ -39,9 +39,9 @@ last_modified_at: 2025-11-22
     - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
-- **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
+<!-- - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
     - *Chief Technology Officer (CTO)*
-    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)])
+    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]) -->
 
 ## Honors & Awards
 - AMA-Sheth Doctoral Consortium Fellow, 2026
@@ -55,47 +55,43 @@ last_modified_at: 2025-11-22
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
-- Dean’s List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
+<!-- - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
 - Excellence Prize (2nd Place) at Assure Our Korea, Korea Insurance Research Institution, 2011
 - Honored (4th Place) at Insurance Industry Development Competition, Korean Reinsurance Company, 2011
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
-- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
-
+- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014 -->
+<!-- 
 ## Projects
-### Research Projects
-- Network Visualization for "Which Tasks Will Technology Take? A New Systematic Methodology to Measure Task Automation", 2019, [[Job Automation Index](https://jobautomationindex.com)]
 - Awesome Machine Learning & Management Research, Dec 2020, [[GitHub](https://github.com/jonghkim/awesome-machine-learning-management-research)]
-
-### Open Source Projects
 - Keras Implementation of [Style Transfer in Text: Exploration and Evaluation](https://arxiv.org/abs/1711.06861), 2018, [[Code](https://github.com/jonghkim/text-style-transfer-comparable-corpora)]
 - Implementing Various Seq2Seq Models using Keras API from Scratch, 2018, [[Code](https://github.com/jonghkim/keras-seq2seq-models)]
 - Neural Networks for Text Classification, 2018, [[Code](https://github.com/jonghkim/keras-text-classification)]
 - Implementing Various Time Series Forecasting Models with Deep Learning Techniques, 2018, [[Code](https://github.com/jonghkim/financial-time-series-prediction-v2)]
 - Browser Automation using Appscript (Mac) and xdotool (Ubuntu), 2018, [[Code](https://github.com/jonghkim/browser-automation-beyond-firewall)]
-- Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)]
+- Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)] -->
 
 ## Invited Talks
 - **Guest Lecturer**, Applications of Machine Learning in Marketing, Korea Summer Session on Causal Inference 2021 (Prof. Park, J.) (Jul 2021), [[Link](https://sites.google.com/view/causal-inference2021)]
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
-- **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
+<!-- - **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
 - **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
-- **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)]
+- **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)] -->
 
 ## Services
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2021
-    - International Conference on Information Systems (ICIS), 2019
-    - International Conference on Electronic Commerce (ICEC), 2017
-- **Teaching Assistant & Tutoring**
+<!-- - International Conference on Information Systems (ICIS), 2019
+    - International Conference on Electronic Commerce (ICEC), 2017 -->
+- **Teaching Assistant**
     - Teaching Assistant, NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
     - Teaching Assistant, AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
     - Teaching Assistant, NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
-    - Teaching Assistant, Principles of Economics, UNIST, 2014
+<!-- - Teaching Assistant, Principles of Economics, UNIST, 2014
     - Tutoring, Calculus II, UNIST, 2012
-    - Tutoring, Calculus II, UNIST, 2011
+    - Tutoring, Calculus II, UNIST, 2011 -->
 
 ## Other Information
 ### Language
