@@ -52,7 +52,7 @@ last_modified_at: 2025-11-22
 - Best Graduate Student Paper Award, KAIST, 2017
 - Most Innovative Research-in-Progress Paper Runner-Up, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
 - Editor’s Picks from the American Institute of Physics, *AIP Advances*, 2016
-- Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
+<!-- - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016 -->
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
 - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
