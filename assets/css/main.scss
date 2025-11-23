@@ -10,17 +10,28 @@
 // Custom width adjustments
 .page {
   @include breakpoint($large) {
-    width: calc(100% - 300px);  // Default is calc(100% - 300px)
-    padding-right: 200px;        // Default is 200px
+    width: calc(100% - 250px);  // Reduced sidebar from 300px to 250px
+    padding-right: 150px;       // Reduced padding from 200px to 150px
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - 300px);  // Default is calc(100% - 300px)
-    padding-right: 200px;        // Default is 200px
+    width: calc(100% - 250px);  // Reduced sidebar from 300px to 250px
+    padding-right: 150px;       // Reduced padding from 200px to 150px
+  }
+}
+
+// Adjust sidebar width to match
+.sidebar {
+  @include breakpoint($large) {
+    width: calc(250px - 1em);  // Match the reduced sidebar width
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(250px - 1em);  // Match the reduced sidebar width
   }
 }
 
 // Increase max-width for single layout content
 .page__content {
-  max-width: 100%;  // Default is 100%
+  max-width: 100%;
 }
