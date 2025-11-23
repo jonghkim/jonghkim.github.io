@@ -55,6 +55,9 @@ last_modified_at: 2025-11-22
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
+- Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
+- Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
+- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 <!-- - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
@@ -63,6 +66,7 @@ last_modified_at: 2025-11-22
 - Honored (4th Place) at Insurance Industry Development Competition, Korean Reinsurance Company, 2011
 - Excellent Paper Scholarship Award, Citi-Korea Institute of Finance, 2011
 - National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014 -->
+
 <!-- 
 ## Projects
 - Awesome Machine Learning & Management Research, Dec 2020, [[GitHub](https://github.com/jonghkim/awesome-machine-learning-management-research)]
