@@ -46,20 +46,20 @@ last_modified_at: 2025-11-22
     - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]) -->
 
 ## Honors & Awards
-- AMA-Sheth Doctoral Consortium Fellow, 2026
-- ISMS Doctoral Consortium Fellow, 2025
-- FinTech@Cornell Student Fellowship, 2022
-- Cornell SC Johnson College Doctoral Fellowship 2021-current
-- Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
-- Best Graduate Student Paper Award, KAIST, 2017
-- Most Innovative Research-in-Progress Paper Runner-Up, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
-- Editor’s Picks from the American Institute of Physics, *AIP Advances*, 2016
+- AMA-Sheth Doctoral Consortium Fellow <span style="float:right">2026</span>
+- ISMS Doctoral Consortium Fellow <span style="float:right">2025</span>
+- FinTech@Cornell Student Fellowship <span style="float:right">2022</span>
+- Cornell SC Johnson College Doctoral Fellowship <span style="float:right">2021–current</span>
+- Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop* <span style="float:right">2017</span>
+- Best Graduate Student Paper Award, KAIST <span style="float:right">2017</span>
+- Most Innovative Research-in-Progress Paper Runner-Up, *International Conference on Information Systems (ICIS)*, Dublin, Ireland <span style="float:right">2016</span>
+- Editor's Picks from the American Institute of Physics, *AIP Advances* <span style="float:right">2016</span>
 <!-- - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016 -->
-- Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
-- Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning, 2014
-- Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
-- Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
-- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
+- Scholarship for Academic Excellence among 2015 Entering Class, KAIST <span style="float:right">2015</span>
+- Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning <span style="float:right">2014</span>
+- Dean's List for Four Semesters, UNIST <span style="float:right">2010, 2012–2014</span>
+- Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity <span style="float:right">2013</span>
+- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation <span style="float:right">2010–2014</span>
 
 <!-- 
 - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
