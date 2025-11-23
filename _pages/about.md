@@ -19,6 +19,8 @@ last_modified_at: 2025-11-22
 - **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
     - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
+    - [Industrial Project] Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
+    - [Industrial Project] The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
@@ -93,6 +95,12 @@ last_modified_at: 2025-11-22
      - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
 -->
+- **Research Assistant**
+    - Personal Information of Financial Analysts, Cass Business School in City University of London (Advisor: Dr. Jung, J.), Apr 2017
+    - Harvard Patent Database and ThomsonOne Database, KAIST (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
+    - Real Estate Data from NAVER and Kakao Real Estate, KAIST (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
+    - Spam Mail Database with Financial Statements, KAIST (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
+
 - **Teaching Assistant**
     - Teaching Assistant, NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
     - Teaching Assistant, AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
