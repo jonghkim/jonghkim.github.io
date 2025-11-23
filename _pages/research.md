@@ -10,16 +10,10 @@ last_modified_at: 2021-03-28
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Working Papers
-### Manuscripts under Review
-- Park, J., **Kim, J.**, Cho, D. and Lee, B., “Pitching with Style: The Role of the Entrepreneur’s Video Pitch in Online Crowdfunding”, under 3rd round review at *MIS Quarterly*
-- Jung, H., **Kim, J.**, Cho, D. and Han, Q., "Behavioral Contagion and Spillover over Users’ Cognitive Network: Evidence from Online Social Media Platform for Investors", under review
+- **Kim, J.** and Kowal, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
+- **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption"
 
-### Manuscripts in Preparation for Submission
-- **Kim, J.** and Lee, J., “The Democratized Crowd? An Empirical Study of the Stages of New Product Development on Gender Discrimination”
-- Park, J. and **Kim, J.**, "Leveraging Machine Learning to Reduce Racial Bias on Online Platforms: A Neural Machine Translation Approach"
-- **Kim, J.** and Park, J., “Does a Smile Turn Away Racial Prejudice? Effects of Facial Expressions on Racial Bias”
-
-### Conference Presentations († presenting author)
+## Conference Presentations († presenting author)
 - **Kim, J.**†, Anand, P., and Kadiyali, V., 2025, “The Effects of Rent Control on Consumer Reviews on Rental Housing”, ISMS Marketing Science Conference, Washington, D.C., USA
 - Boughanmi, K., **Kim, J.**†, and Park, Y, 2022. “Uncovering Successful Narratives in Super Bowl Ads”, ISMS Marketing Science Conference, Chicago, Illinois, USA
 - Park, J. and **Kim, J.**†, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS)*, Munich, Germany
