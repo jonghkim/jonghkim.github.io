@@ -7,37 +7,37 @@ author_profile: true
 last_modified_at: 2025-11-22
 ---
 ## Education
-- **Cornell University (SC Johnson Graduate School of Management)** (Aug 2021–Present)
+- **Cornell University, SC Johnson Graduate School of Management** <span style="float:right">Aug 2021–Present</span>
     - Ph.D. in Marketing
     - Committee: Vrinda Kadiyali, Emaad Manzoor, Omid Rafieian, Dan Kowal
-- **Korea Advanced Institute of Science and Technology (KAIST)** (Feb 2015–Feb 2017)
+- **Korea Advanced Institute of Science and Technology** <span style="float:right">Feb 2015–Feb 2017</span>
     - M.S. in Management Engineering
-- **Ulsan National Institute of Science and Technology (UNIST)** (Mar 2010–Aug 2014)
+- **Ulsan National Institute of Science and Technology** <span style="float:right">Mar 2010–Aug 2014</span>
     - B.S. Computer Science and Engineering, Minor in Finance and Accounting
 
 ## Professional Experience
-- **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Jul 2021)
+- **December & Company Asset Management, Seoul, South Korea** <span style="float:right">Apr 2019–Jul 2021</span>
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement a Sector Rotation Strategy through Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
     - Work as a Substitute for Mandatory Military Service
     
-- **NICE Pricing and Information, Seoul, South Korea** (Aug 2016~Apr 2019)
+- **NICE Pricing and Information, Seoul, South Korea** <span style="float:right">Aug 2016–Apr 2019</span>
     - *Quantitative Researcher* at Financial Engineering Center
     - Develop Non-Homogeneous Time Markov Chain Models (NHCTMC) for Forward Looking Probability of Default under IFRS9 based on Sparse Transition Matrix of Credit Ratings
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
 
-- **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
+- **Digital Economics and Enterprise Research Lab, KAIST** <span style="float:right">May 2015–Feb 2017</span>
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
     - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
     - Industrial Project 
       - Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
       - The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
-- **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
+- **Computational Mathematical Science Lab, UNIST** <span style="float:right">Sep 2011–Feb 2015</span>
     - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
     - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
@@ -96,12 +96,12 @@ last_modified_at: 2025-11-22
     - International Conference on Electronic Commerce (ICEC), 2017
 -->
 - **Instructor**
-  - BANA 5440 Introduction to Data Programming (MSBA), Cornell University, 2025 (Fall)
+  - BANA 5440 Introduction to Data Programming (MSBA), Cornell University <span style="float:right">Fall 2025</span>
 
 - **Teaching Assistant**
-    - NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
-    - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
-    - NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
+    - NCCT 5030/5031 Marketing Management, Cornell University <span style="float:right">Spring & Fall 2023</span>
+    - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University <span style="float:right">Fall 2022</span>
+    - NCC 5030 Marketing Management, Cornell University <span style="float:right">Summer 2022</span>
 
 <!-- 
 - **Research Assistant**
