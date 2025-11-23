@@ -7,12 +7,13 @@ author_profile: true
 last_modified_at: 2025-11-22
 ---
 ## Education
-- **Cornell University (SC Johnson Graduate School of Management), Ithaca, NY, USA** (Aug 2021~)
-    - Ph.D. Candidate in Management (Major: Quantitative Marketing)
-- **Korea Advanced Institute of Science and Technology, Seoul, Korea** (Feb 2015~Feb 2017)
-    - M.S. in Management Engineering (Major: Information Systems)
-- **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
-    - B.S. in School of Electrical & Computer Engineering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
+- **Cornell University (SC Johnson Graduate School of Management)** (Aug 2021–Present)
+    - Ph.D. in Marketing
+    - Committee: Vrinda Kadiyali, Emaad Manzoor, Omid Rafieian, Dan Kowal
+- **Korea Advanced Institute of Science and Technology (KAIST)** (Feb 2015–Feb 2017)
+    - M.S. in Management Engineering
+- **Ulsan National Institute of Science and Technology (UNIST)** (Mar 2010–Aug 2014)
+    - B.S. Computer Science and Engineering, Minor in Finance and Accounting
 
 ## Professional Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Jul 2021)
