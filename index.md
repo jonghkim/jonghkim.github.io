@@ -8,8 +8,6 @@ My research develops and applies methods from econometrics, Bayesian statistics,
 
 Prior to my doctoral studies, I spent five years in industry as a quantitative researcher in Seoul—first at NICE Pricing and Information, where I developed credit-risk and derivatives models, and later at December & Company Asset Management, where I designed machine-learning–based portfolio investment strategies. Working closely with data on credit, household consumption, and individual financial choices naturally led me to a deeper interest in how consumers make financial decisions, an interest that now shapes my substantive academic work.
 
-I received an MS in Information Systems from KAIST and a BS in Computer Science and Engineering from UNIST.
-
 ![Jongho Kim](/assets/images/bio-presentation.jpg){: style="width: 50%; margin: 0 auto; display: block;"}
 
 Here are some list of things I believe in:
