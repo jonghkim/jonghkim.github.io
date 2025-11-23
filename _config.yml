@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Jongho Kim"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I love pursuing my intellectual curiosity and letting it lead my days." 
+  bio              : "I love pursuing my intellectual curiosity, letting it lead my days." 
   location         : "Ithaca, NY"
   email            : "jk2352@cornell.edu"
   uri              :
