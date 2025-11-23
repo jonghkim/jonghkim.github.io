@@ -59,7 +59,8 @@ last_modified_at: 2025-11-22
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
 - National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation, 2010~2014
 
-<!-- - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
+<!-- 
+- Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
 - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 - Honored (4th Place) at Dongbu Financial Competition, Dongbu Foundation, 2013
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity, 2013
