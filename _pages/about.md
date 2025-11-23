@@ -15,18 +15,6 @@ last_modified_at: 2025-11-22
     - B.S. in School of Electrical & Computer Engineering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
 ## Experience
-### Research Experience
-- **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
-    - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
-    - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
-    - [Industrial Project] Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
-    - [Industrial Project] The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
-
-- **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
-    - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
-    - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
-
-### Industrial Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Jul 2021)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
@@ -40,6 +28,16 @@ last_modified_at: 2025-11-22
     - Estimate Maximum Likelihood Proxy Portfolio of Fixed-Income Portfolio via Return based Style Analysis (RBSA)
     - Implement Implied Volatility Surface of Index Futures Options via Heston Stochastic Volatility Model
     - Work as a Substitute for Mandatory Military Service
+
+- **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
+    - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
+    - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
+    - [Industrial Project] Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
+    - [Industrial Project] The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
+
+- **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
+    - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
+    - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
 <!-- - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
     - *Chief Technology Officer (CTO)*
