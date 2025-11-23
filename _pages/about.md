@@ -88,23 +88,28 @@ last_modified_at: 2025-11-22
 - Online Lecturer, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
 - Guest Lecturer, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)] 
 
-## Services
+## Teaching Experience
 <!--
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2021
      - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
 -->
+- **Instructor**
+  - BANA 5440 Introduction to Data Programming (MSBA), Cornell University, 2025 (Fall)
+
+- **Teaching Assistant**
+    - NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
+    - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
+    - NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
+
+<!-- 
 - **Research Assistant**
     - Personal Information of Financial Analysts, Cass Business School in City University of London (Advisor: Dr. Jung, J.), Apr 2017
     - Harvard Patent Database and ThomsonOne Database, KAIST (Advisor: Dr. Jin, B. and Dr. Chang, S.), Feb 2016 ~ Dec 2016
     - Real Estate Data from NAVER and Kakao Real Estate, KAIST (Advisor: Dr. Eom, J.), Jan 2016 ~ Feb 2016
     - Spam Mail Database with Financial Statements, KAIST (Advisor: Dr. Lee, J.), Jun 2015 ~ Aug 2015
-
-- **Teaching Assistant**
-    - Teaching Assistant, NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
-    - Teaching Assistant, AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
-    - Teaching Assistant, NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
+ -->
 
 <!-- 
 - Teaching Assistant, Principles of Economics, UNIST, 2014
