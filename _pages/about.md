@@ -44,6 +44,9 @@ last_modified_at: 2021-4-15
     - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)])
 
 ## Honors & Awards
+- AMA-Sheth Doctoral Consortium Fellow, 2026
+- ISMS Doctoral Consortium Fellow, 2025
+- Cornell SC Johnson College Doctoral Fellowship 2021-current
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
 - **Most Innovative Research-in-Progress Paper Runner-Up**, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
