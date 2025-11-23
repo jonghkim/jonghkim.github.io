@@ -6,7 +6,10 @@ author_profile: true
 last_modified_at: 2021-03-28
 ---
 ## Journal Publications
-- Park, J. and **Kim, J.**, 2021. “A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century”, *Communications of the ACM*, forthcoming, [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)] [[Homepage](https://jobautomationindex.com/)] [[Code](https://github.com/jonghkim/job-automation-index)]
+- Park, J. and **Kim, J.**, 2021. “A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century”, *Communications of the ACM*, forthcoming, [[PAPER](https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)] 
+  - [[Non-technical summary video in CACM](https://vimeo.com/700520130)]
+  - [[Website for Job Automation Index](https://jobautomationindex.com/)] 
+  - [[Code](https://github.com/jonghkim/job-automation-index)]
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Working Papers
@@ -24,7 +27,7 @@ last_modified_at: 2021-03-28
 - Park, J.†, **Kim, J.** and Lee, B., 2017. "Are All Faces Created Equal? An Empirical Analysis of Face Disclosure and Facial Expression in Crowdfunding", *Post-ICIS KrAIS Research Workshop*, Seoul, Korea (**Best Student Paper Award**)
 - Park, J.†, **Kim, J.** and Lee, B., 2017. "Face Premium or Discount? The Contingent Effects of Face Disclosure and Facial Expression in Crowdfunding", *Workshop on Information Systems and Economics (WISE)*, Seoul, Korea
 - **Kim, J.**† and Park, J., 2017. "Does Facial Expression Matter Even Online? An Empirical Analysis of Facial Expression of Emotion and Crowdfunding Success", *International Conference on Information Systems (ICIS)*, Seoul, Korea [[Manuscript](http://bit.ly/2uznOAR)] [[Poster](http://bit.ly/2O1fz8J)]
-- - Jung, H.†, **Kim, J.**, Cho, D. and Han, Q., 2017. "Disagreement Spillovers on Social Platform", *Korea Derivatives Association (KDA)*, Seoul, Korea
+- Jung, H.†, **Kim, J.**, Cho, D. and Han, Q., 2017. "Disagreement Spillovers on Social Platform", *Korea Derivatives Association (KDA)*, Seoul, Korea
 - **Kim, J.** and Park, J.†, 2017. "The Anatomy of Facial Expression in Online Crowdfunding Platform: A Machine Learning Approach", *International Conference on Electronic Commerce (ICEC)*, Pangyo, Korea
 - **Kim, J.**†, Lee, M., Cho, D. and Lee, B., 2016. “Mining the Crowdfunding: An Empirical Analysis of Market Structure in Kickstarter”, *International Conference on Electronic Commerce (ICEC)*, Suwon, Korea [[Manuscript](http://bit.ly/2JAE49E)]
 - **Kim, J.**†, Lee, M., Cho, D. and Lee, B., 2016. “Are All Spillovers Created Equal? The Impact of Blockbusters and the Composition of Backers in Online Crowdfunding”, *International Conference on Information Systems (ICIS)*, Dublin, Ireland [[Manuscript](http://bit.ly/2L5x3TI)] [[Presentation](http://bit.ly/2LrBJ2p)]
