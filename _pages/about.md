@@ -14,7 +14,7 @@ last_modified_at: 2025-11-22
 - **Ulsan National Institute of Science and Technology, Ulsan, Korea** (Mar 2010~Aug 2014)
     - B.S. in School of Electrical & Computer Engineering (Major: Computer Science and Engineering, Minor: Finance and Accounting)
 
-## Experience
+## Professional Experience
 - **December & Company Asset Management, Seoul, South Korea** (Apr 2019~Jul 2021)
     - *Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
@@ -86,7 +86,7 @@ last_modified_at: 2025-11-22
 - Online Lecturer, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
 - Guest Lecturer, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)] 
 
-## Teaching Experience
+## Teaching
 <!--
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2021
