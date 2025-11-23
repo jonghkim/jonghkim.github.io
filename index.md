@@ -14,6 +14,7 @@ I received an MS in Information Systems from KAIST and a BS in Computer Science 
 
 Here are some list of things I believe in:
 - "The greatest joy of research is recognizing, with clarity, what you don’t yet understand—and then, every so often, experiencing the rare moment when the unknown finally becomes clear." - *June Huh*
+- "Research is a long conversation—and important, original ideas emerge from the slow accumulation of that conversation." - *June Huh*
 - "The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so far off you hardly hear it... yet it finally surrounds the resistant substance.” - *Alexander Grothendieck*
 - "…put the cutting edge of the chisel against the shell and strike hard. If needed, begin again at many different points until the shell cracks—and you are satisfied.” - *Alexander Grothendieck*
 - "The first step is to establish that something is possible then probability will occur.” - *Elon Musk*
