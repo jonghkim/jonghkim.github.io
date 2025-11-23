@@ -31,7 +31,7 @@ last_modified_at: 2025-11-22
     - Work as a Substitute for Mandatory Military Service
 
 - **Digital Economics and Enterprise Research Lab, KAIST** <span style="float:right">May 2015–Feb 2017</span>
-    - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
+    - Empirical Research in Information Systems using Machine Learning and Econometrics (Advisor: Dr. Byungtae Lee)
     - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
     - Industrial Projects
       - Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
