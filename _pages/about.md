@@ -100,9 +100,11 @@ last_modified_at: 2025-11-22
     - Teaching Assistant, NCCT 5030/5031 Marketing Management, Cornell University, 2023 (Spring, Fall)
     - Teaching Assistant, AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University, 2022 (Fall)
     - Teaching Assistant, NCC 5030 Marketing Management, Cornell University, 2022 (Summer)
-<!-- - Teaching Assistant, Principles of Economics, UNIST, 2014
-    - Tutoring, Calculus II, UNIST, 2012
-    - Tutoring, Calculus II, UNIST, 2011 -->
+<!-- 
+- Teaching Assistant, Principles of Economics, UNIST, 2014
+- Tutoring, Calculus II, UNIST, 2012
+- Tutoring, Calculus II, UNIST, 2011 
+-->
 
 ## Other Information
 ### Language
