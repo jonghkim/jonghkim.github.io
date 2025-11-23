@@ -50,7 +50,7 @@ last_modified_at: 2025-11-22
 - Cornell SC Johnson College Doctoral Fellowship 2021-current
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop*, 2017
 - Best Graduate Student Paper Award, KAIST, 2017
-- **Most Innovative Research-in-Progress Paper Runner-Up**, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
+- Most Innovative Research-in-Progress Paper Runner-Up, *International Conference on Information Systems (ICIS)*, Dublin, Ireland, 2016
 - Editor’s Picks from the American Institute of Physics, *AIP Advances*, 2016
 - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST, 2015
