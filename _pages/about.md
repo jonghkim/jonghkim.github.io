@@ -82,12 +82,9 @@ last_modified_at: 2025-11-22
 ## Invited Talks
 - **Guest Lecturer**, Applications of Machine Learning in Marketing, Korea Summer Session on Causal Inference 2021 (Prof. Park, J.) (Jul 2021), [[Link](https://sites.google.com/view/causal-inference2021)]
 - **Guest Lecturer**, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.) (Mar 2021), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)]
-
-<!-- 
 - **Guest Lecturer**, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.) (Apr 2019), [[Link](https://github.com/jonghkim/kaist-video-analytics)]
 - **Online Lecturer**, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie (Oct 2018~Apr 2019), [[Link](https://studypie.co/)]
 - **Guest Lecturer**, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST (Aug 2017), [[Link](https://sites.google.com/view/kaist-mis-session2017)] 
--->
 
 ## Services
 <!--
