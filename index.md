@@ -4,7 +4,7 @@ author_profile: true
 ---
 Welcome :) I am a PhD candidate in Quantitative Marketing at Johnson, Cornell University.
 
-My research develops and applies methods from econometrics, Bayesian statistics, and machine learning in marketing contexts. My current work develops a framework for valid statistical inference using large language models. Substantively, my work examines consumer behavior in housing markets and consumer financial decision-making more broadly.
+My research develops and applies methods from econometrics, Bayesian statistics, and machine learning in marketing contexts. My current work develops a framework for valid statistical inference on large language model outputs. Substantively, my work examines consumer behavior in housing markets and consumer financial decision-making more broadly.
 
 Prior to my doctoral studies, I spent five years in industry as a quantitative researcher in Seoul—first at NICE Pricing and Information, where I developed credit-risk and derivatives models, and later at December & Company Asset Management, where I designed machine-learning–based portfolio investment strategies. Working closely with data on credit, household consumption, and individual financial choices naturally led me to a deeper interest in how consumers make financial decisions—an interest that now shapes my substantive academic work.
 
