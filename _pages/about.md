@@ -32,8 +32,9 @@ last_modified_at: 2025-11-22
 - **Digital Economics and Enterprise Research Lab, KAIST** (May 2015~Feb 2017)
     - Employ both ML and Econometrics to Explore Researches in Information Systems and Economics of IS (Advisor: Dr. Byungtae Lee)
     - Accepted Three Conference Papers in ICIS 2016 and Awarded for the Most Innovative Research-in-Progress Paper Award (Runner-Up) in ICIS 2016
-    - [Industrial Project] Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
-    - [Industrial Project] The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
+    - Industrial Project 
+      - Strategies for Online to Offline (O2O) Transport Services, The Korea Transport Institute (Advisor: Dr. Lee, B.), Sep 2016 ~ Nov 2016
+      - The Effect of Model-Driven Development (MDD) on Information Systems Maintenance, LG CNS (Advisor: Dr. Lee, B.), Sep 2015 ~ Dec 2015
 
 - **Computational Mathematical Science Lab, UNIST** (Sep 2011~Feb 2015)
     - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
