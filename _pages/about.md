@@ -101,17 +101,8 @@ last_modified_at: 2025-11-22
 ### Language
 - Korean (Native), English (Fluent)
 
-### Technical Skills
-- Language: Python, C/C++, Matlab, STATA
-- ML: Tensorflow, Keras, Pytorch, Torch, Scikit-learn
-- Parallel Computing: MPI, OpenMP
-- Database: SQL, MySQL, Sqlite3, MongoDB
-- Network Analysis: Networkx, Gephi
-- NLP, Machine Vision & Speech: Gensim, OpenNMT, Regex, OpenCV, Aubio, Ffmpeg
-- Web Crawling & Browser Automaton: Selenium, BeautifulSoup, Scrapy, Urllib
-- Web Development & Data Visualization: Django, HTML, CSS, Javascript, D3.js, Leaflet.js
-- Asynchronous Task and Process Control: Crontab, Celery, Flower, Supervisor
-- Geoprocessing: ArcGIS
+### Programming Languages
+- Python, C/C++, Java, R, STATA, Matlab, SQL, JavaScript, HTML, CSS
 
 ### Selected Coursework
 - **Ph.D.**: Doctoral Seminar in Quantitative Models (Sachin Gupta; Nathan Yang; Omid Rafieian; Emaad Manzoor; Young-Hoon Park), Doctoral Seminar in Consumer Behavior (Stijn MJ van Osselaer), Bayesian Analysis for Research (Nikhil Garg), Bayesian Statistics and Data Analysis (David S. Matteson), Bayesian Statistics and Data Analysis (Dan Kowal), Microeconomic Theory I (David Easley), Behavioral Economics I (Ted O'Donoghue), (ECON) Econometrics 1 (Chen Qiu), (ECON) Econometrics II (Jörg Stoye), (AEM) Econometrics I (Shanjun Li), Econometrics and Machine Learning (Jose Luis Montiel Olea), Industrial Organization and Structural Methods (Adam Harris), Empirical Strategies for Policy Analysis (Douglas Miller), Causal Inference in Observational Settings (Ian Lundberg), Natural Language Processing (Claire Cardie), ML Special Topics (Fairness and Dynamics of Learning Systems; Thorsten Joachims), Machine Learning in Feedback Systems (Sarah Dean)
