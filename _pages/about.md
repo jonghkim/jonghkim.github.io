@@ -17,7 +17,7 @@ last_modified_at: 2025-11-22
 
 ## Professional Experience
 - **December & Company Asset Management, Seoul, South Korea** <span style="float:right">Apr 2019–Jul 2021</span>
-    - *Quantitative Portfolio Manager* at Portfolio Research Team
+    - *Senior Researcher / Quantitative Portfolio Manager* at Portfolio Research Team
     - Develop Generative Models for Textual Factors to Predict Asset Returns based on SEC-10X (10-K, 10-Q, 10-KSB and 10-QSB)
     - Implement a Sector Rotation Strategy through Cross-Sectional Variation over Data-driven Economic Cycles
     - Construct Alternative Investment Strategies, especially for Commodity, REITs, Infrastructure and High Dividend-Paying ETFs
