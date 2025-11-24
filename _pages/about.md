@@ -11,7 +11,7 @@ last_modified_at: 2025-11-22
     - Ph.D. Candidate in Marketing
     - Committee: Vrinda Kadiyali, Emaad Manzoor, Omid Rafieian, Dan Kowal
 - **Korea Advanced Institute of Science and Technology** <span style="float:right">Feb 2015–Feb 2017</span>
-    - M.S. in Management Engineering
+    - M.S. in Management Engineering (Information Systems)
 - **Ulsan National Institute of Science and Technology** <span style="float:right">Mar 2010–Aug 2014</span>
     - B.S. Computer Science and Engineering, Minor in Finance and Accounting
 
