@@ -13,7 +13,7 @@ last_modified_at: 2025-11-22
 - **Korea Advanced Institute of Science and Technology** <span style="float:right">Feb 2015–Feb 2017</span>
     - M.S. in Management Engineering, Information Systems
 - **Ulsan National Institute of Science and Technology** <span style="float:right">Mar 2010–Aug 2014</span>
-    - B.S. Computer Science and Engineering, Minor in Finance and Accounting
+    - B.S. in Computer Science and Engineering, Minor in Finance and Accounting
 
 ## Professional Experience
 - **December & Company Asset Management, Seoul, South Korea** <span style="float:right">Apr 2019–Jul 2021</span>
