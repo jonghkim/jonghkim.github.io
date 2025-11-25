@@ -10,8 +10,9 @@ Prior to my doctoral studies, I spent five years in industry as a quantitative r
 
 ![Jongho Kim](/assets/images/bio-presentation.jpg){: style="width: 50%; margin: 0 auto; display: block;"}
 
-Here are some list of things I believe in:
-- "The greatest joy of research is recognizing, with clarity, what you don’t yet understand—and then, every so often, experiencing the rare moment when the unknown finally becomes clear." - *June Huh*
+Here is a list of things I believe in:
+- "The greatest joy of research is recognizing, with clarity, what you don't yet understand—and then, every so often, experiencing the rare moment when the unknown finally becomes clear." - *June Huh*
+- "I have no special talent. I am only passionately curious." - *Albert Einstein*
 - "Research is a long conversation—and important, original ideas emerge from the slow accumulation of that conversation." - *June Huh*
 - "The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so far off you hardly hear it... yet it finally surrounds the resistant substance.” - *Alexander Grothendieck*
 - "…put the cutting edge of the chisel against the shell and strike hard. If needed, begin again at many different points until the shell cracks—and you are satisfied." - *Alexander Grothendieck*
@@ -20,7 +21,6 @@ Here are some list of things I believe in:
     1. Write down the problem
     2. Think real hard
     3. Write down the solution
-- "I have no special talent. I am only passionately curious." - *Albert Einstein*
-- "He who has a why to live can bear with almost any how." - *Friedrich Nietzsche*
-- "'Science progresses one funeral at a time.' The future depends on some graduate student who is deeply suspicious of everything I have said." - *Geoff Hinton*
 - "If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery." - *Enrico Fermi*
+- "'Science progresses one funeral at a time.' The future depends on some graduate student who is deeply suspicious of everything I have said." - *Geoff Hinton*
+- "He who has a why to live can bear with almost any how." - *Friedrich Nietzsche*
