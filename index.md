@@ -13,6 +13,7 @@ Prior to my doctoral studies, I spent five years in industry as a quantitative r
 Here is a list of things I believe in:
 - "The greatest joy of research is recognizing, with clarity, what you don't yet understand—and then, every so often, experiencing the rare moment when the unknown finally becomes clear." - *June Huh*
 - "I have no special talent. I am only passionately curious." - *Albert Einstein*
+- "The important thing is not to stop questioning. Curiosity has its own reason for existing." - *Albert Einstein*
 - "Research is a long conversation—and important, original ideas emerge from the slow accumulation of that conversation." - *June Huh*
 - "The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so far off you hardly hear it... yet it finally surrounds the resistant substance.” - *Alexander Grothendieck*
 - "…put the cutting edge of the chisel against the shell and strike hard. If needed, begin again at many different points until the shell cracks—and you are satisfied." - *Alexander Grothendieck*
