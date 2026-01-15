@@ -13,7 +13,7 @@ last_modified_at: 2021-03-28
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Working Papers
-- **Kim, J.** and Kowal, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
+- **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
 - **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption"
 
 ## Conference Presentations
