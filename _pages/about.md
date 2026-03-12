@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 toc: false
 author_profile: true
-last_modified_at: 2025-11-22
+last_modified_at: 2026-03-12
 ---
 ## Education
 - **Cornell University, SC Johnson Graduate School of Management** <span style="float:right">Aug 2021–Present</span>
@@ -41,9 +41,13 @@ last_modified_at: 2025-11-22
     - Research and Study for Complex Network Theory and Numerical Methods for Differential Equations (Advisor: Dr. Bongsoo Jang)
     - Published a Paper in AIP Advances (Compressed Representation of the Hamiltonian Matrix) and Selected as a Undergraduate Research Opportunity Program (Optimal Control Strategies of Lotka–Volterra Equation)
 
-<!-- - **NewsJAM (Startup Company), Ulsan, South Korea** (Jun 2013~Feb 2014)
-    - *Chief Technology Officer (CTO)*
-    - Develop a Variety of NLP Engines to Analyze News Data including Text Summarization, Key Sentence Extraction, Topic Modeling and Text Clustering (PYCON KOREA APAC 2016, [[Presentation](http://bit.ly/2mroROR)]) -->
+- **NewsJAM, Ulsan, South Korea** <span style="float:right">Jun 2013–Feb 2014</span>
+    - *Chief Technology Officer (CTO), Co-Founder*
+    - Developed NLP engines for news analysis including text summarization, key sentence extraction, topic modeling, and text clustering
+    - Presented work at PyCon Korea 2016, [[Presentation](/assets/slide/pycon_2016.pdf)]
+
+## Patents
+- **Kim, J.**, et al., "Automated Trading System and Method," Korean Patent 10-2433324, Assignee: December & Company Inc., 2022. (Application No. 10-2019-0117628, filed Sep 24, 2019)
 
 ## Honors & Awards
 - AMA-Sheth Doctoral Consortium Fellow <span style="float:right">2026</span>
