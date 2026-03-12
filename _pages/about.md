@@ -43,8 +43,7 @@ last_modified_at: 2026-03-12
 
 - **NewsJAM, Ulsan, South Korea** <span style="float:right">Jun 2013–Feb 2014</span>
     - *Chief Technology Officer (CTO), Co-Founder*
-    - Developed NLP engines for news analysis including text summarization, key sentence extraction, topic modeling, and text clustering
-    - Presented work at PyCon Korea 2016, [[Presentation](/assets/slide/pycon_2016.pdf)]
+    - Developed NLP engines for news analysis including text summarization, key sentence extraction, topic modeling, and text clustering, [[PyCon Korea 2016](/assets/slide/pycon_2016.pdf)]
 
 ## Patents
 - **Kim, J.**, et al., "Automated Trading System and Method," Korean Patent 10-2433324, Assignee: December & Company Inc., 2022. (Application No. 10-2019-0117628, filed Sep 24, 2019)
