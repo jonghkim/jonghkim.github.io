@@ -101,14 +101,14 @@ last_modified_at: 2026-03-12
     - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University <span style="float:right">Fall 2022</span>
     - NCC 5030 Marketing Management, Cornell University <span style="float:right">Summer 2022</span>
 
+## Invite-Only Workshops
+- Econometric Society, Africa Training Workshop in Econometrics, 2024
+
 ## Services
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2021
     - International Conference on Information Systems (ICIS), 2019
     - International Conference on Electronic Commerce (ICEC), 2017
-
-## Invite-Only Workshops
-- Econometric Society, Africa Training Workshop in Econometrics, 2024
 
 <!-- 
 - **Research Assistant**
