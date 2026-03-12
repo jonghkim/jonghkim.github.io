@@ -124,8 +124,8 @@ last_modified_at: 2026-03-12
 ## Other Information
 
 ### Work Authorization
-- Employment Authorization Document (EAD; I-765) Expected
-- Adjustment of Status (Green Card; I-485) Pending
+- Employment Authorization Document (EAD) Expected
+- Adjustment of Status (I-485) Pending
 - No Visa Sponsorship Required
 
 ### Language
