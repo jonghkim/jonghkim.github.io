@@ -44,6 +44,7 @@ last_modified_at: 2026-03-12
 - **NewsJAM, Ulsan, South Korea** <span style="float:right">Jun 2013–Feb 2014</span>
     - *Chief Technology Officer (CTO), Co-Founder*
     - Developed NLP engines for news analysis including text summarization, key sentence extraction, topic modeling, and text clustering, [[PyCon Korea 2016](/assets/slide/pycon_2016.pdf)]
+    - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 
 ## Patents
 - **Kim, J.**, et al., "Automated Trading System and Method," Korean Patent 10-2433324, Assignee: December & Company Inc., 2022. (Application No. 10-2019-0117628, filed Sep 24, 2019)
@@ -92,12 +93,6 @@ last_modified_at: 2026-03-12
 - Guest Lecturer, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST, [[Link](https://sites.google.com/view/kaist-mis-session2017)] <span style="float:right">Aug 2017</span> 
 
 ## Teaching
-<!--
-- **Ad-hoc Reviewer**
-    - International Conference on Information Systems (ICIS), 2021
-     - International Conference on Information Systems (ICIS), 2019
-    - International Conference on Electronic Commerce (ICEC), 2017
--->
 - **Instructor**
   - BANA 5440 Introduction to Data Programming (MSBA), Cornell University <span style="float:right">Fall 2025</span>
 
@@ -105,6 +100,15 @@ last_modified_at: 2026-03-12
     - NCCT 5030/5031 Marketing Management, Cornell University <span style="float:right">Spring & Fall 2023</span>
     - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University <span style="float:right">Fall 2022</span>
     - NCC 5030 Marketing Management, Cornell University <span style="float:right">Summer 2022</span>
+
+## Services
+- **Ad-hoc Reviewer**
+    - International Conference on Information Systems (ICIS), 2021
+    - International Conference on Information Systems (ICIS), 2019
+    - International Conference on Electronic Commerce (ICEC), 2017
+
+## Invite-Only Workshops
+- Econometric Society, Africa Training Workshop in Econometrics, 2024
 
 <!-- 
 - **Research Assistant**
