@@ -124,7 +124,7 @@ last_modified_at: 2026-03-12
 ## Other Information
 
 ### Work Authorization
-- EAD (Employment Authorization Document; I-765) Expected
+- Employment Authorization Document (EAD; I-765) Expected
 - No Visa Sponsorship Required
 
 ### Language
