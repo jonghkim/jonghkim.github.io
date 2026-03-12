@@ -124,7 +124,8 @@ last_modified_at: 2026-03-12
 ## Other Information
 
 ### Work Authorization
-- EAD (Employment Authorization Document; I-765) Expected | No VISA Sponsorship Required
+- EAD (Employment Authorization Document; I-765) Expected
+- No VISA Sponsorship Required
 
 ### Language
 - Korean (Native), English (Fluent)
