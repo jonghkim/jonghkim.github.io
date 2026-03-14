@@ -14,7 +14,9 @@ last_modified_at: 2021-03-28
 
 ## Working Papers
 - **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
+  - Presented at: *IO / Empirical Modeling Brown Bag*, Cornell University, Ithaca, NY, USA, 2026
 - **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption"
+  - Presented at: *ISMS Marketing Science Conference*, Washington, D.C., USA, 2025
 
 ## Conference Presentations
 - **Kim, J.**, Anand, P., and Kadiyali, V., 2025, “The Effects of Rent Control on Consumer Reviews on Rental Housing”, ISMS Marketing Science Conference, Washington, D.C., USA
