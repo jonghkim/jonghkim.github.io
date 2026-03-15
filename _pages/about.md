@@ -127,7 +127,7 @@ last_modified_at: 2026-03-12
 ## Other Information
 
 ### Work Authorization
-- Adjustment of Status (I-485) Pending; Employment Authorization Document (EAD) Expected
+- Employment Authorization Document (EAD) Expected
 
 ### Language
 - Korean (Native), English (Fluent)
