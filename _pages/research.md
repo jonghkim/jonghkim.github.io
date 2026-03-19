@@ -18,7 +18,6 @@ last_modified_at: 2021-03-28
 
 ## Conference and Seminar Presentations
 - **Kim, J.**, Kowal, D., and Ruppert, D., 2026, "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors", IO / Empirical Modeling Brown Bag, Cornell University, Ithaca, NY, USA
-
 - **Kim, J.**, Anand, P., and Kadiyali, V., 2025, “The Effects of Rent Control on Consumer Reviews on Rental Housing”, ISMS Marketing Science Conference, Washington, D.C., USA
 - Boughanmi, K., **Kim, J.**, and Park, Y, 2022. “Uncovering Successful Narratives in Super Bowl Ads”, ISMS Marketing Science Conference, Chicago, Illinois, USA
 - Park, J. and **Kim, J.**, 2019. "Evolution of Task Automation in the 21st Century: A Data-Driven Exploration of the Race between Man and Machine", *International Conference on Information Systems (ICIS)*, Munich, Germany
