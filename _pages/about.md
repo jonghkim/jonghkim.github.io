@@ -46,9 +46,6 @@ last_modified_at: 2026-03-12
     - Developed NLP engines for news analysis including text summarization, key sentence extraction, topic modeling, and text clustering, [[PyCon Korea 2016](/assets/slide/pycon_2016.pdf)]
     - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 
-## Patents
-- **Kim, J.**, et al., "Automated Trading System and Method," Korean Patent 10-2433324, Assignee: December & Company Inc., 2022. (Application No. 10-2019-0117628, filed Sep 24, 2019)
-
 ## Honors & Awards
 - AMA-Sheth Doctoral Consortium Fellow <span style="float:right">2026</span>
 - ISMS Doctoral Consortium Fellow <span style="float:right">2025</span>
@@ -64,6 +61,9 @@ last_modified_at: 2026-03-12
 - Dean's List for Four Semesters, UNIST <span style="float:right">2010, 2012–2014</span>
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity <span style="float:right">2013</span>
 - National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation <span style="float:right">2010–2014</span>
+
+## Patents
+- **Kim, J.**, et al., "Automated Trading System and Method," Korean Patent 10-2433324, Assignee: December & Company Inc., 2022. (Application No. 10-2019-0117628, filed Sep 24, 2019)
 
 <!-- 
 - Dean's List for Four Semesters, UNIST, 2010, 2012, 2013, 2014
