@@ -85,16 +85,22 @@ last_modified_at: 2026-03-12
 - Browser Automation using Appscript (Mac) and xdotool (Ubuntu), 2018, [[Code](https://github.com/jonghkim/browser-automation-beyond-firewall)]
 - Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)] -->
 
-## Invited Talks
-- Guest Lecturer, Applications of Machine Learning in Marketing, Korea Summer Session on Causal Inference 2021 (Prof. Park, J.), [[Link](https://sites.google.com/view/causal-inference2021)] <span style="float:right">Jul 2021</span>
-- Guest Lecturer, Scientific Investment Philosophy, KAIST MBA Lecture (Prof. Lee, B.), [[Link](https://github.com/jonghkim/scientific-investment-philosophy)] <span style="float:right">Mar 2021</span>
-- Guest Lecturer, Intelligent Video Analytics with Deep Learning, KAIST MBA Lecture - Business Analytics (IM561) (Prof. Oh, W.), [[Link](https://github.com/jonghkim/kaist-video-analytics)] <span style="float:right">Apr 2019</span>
-- Online Lecturer, Online Lectures about Deep Learning Models for Time Series Prediction, StudyPie, [[Link](https://studypie.co/)] <span style="float:right">Oct 2018–Apr 2019</span>
-- Guest Lecturer, Open Lectures about Machine Learning APIs and Crawling for Researchers in KAIST IT Management Summer Research Workshop, KAIST, [[Link](https://sites.google.com/view/kaist-mis-session2017)] <span style="float:right">Aug 2017</span> 
-
 ## Teaching
 - **Instructor**
-  - BANA 5440 Introduction to Data Programming (MSBA), Cornell University <span style="float:right">Fall 2025</span>
+  - *Cornell University* <span style="float:right">Fall 2025</span>
+    - BANA 5440 Introduction to Data Programming, MSBA
+  - *[StudyPie](https://studypie.co/)* <span style="float:right">Oct 2018–Apr 2019</span>
+    - Deep Learning Models for Financial Time Series Prediction \[[Link](https://github.com/jonghkim/financial-time-series-prediction-v2)\]
+
+- **Guest Lecturer**
+  - *KAIST FMBA -- Introduction to FinTech (Prof. Lee, B.)* <span style="float:right">Mar 2021, Mar 2023, Apr 2024</span>
+    - Investment Strategies in FinTech Industry \[[Link](https://github.com/jonghkim/scientific-investment-philosophy)\]
+  - *Korea Summer Session on Causal Inference (Prof. Park, J.)* <span style="float:right">Jul 2021</span>
+    - Applications of Machine Learning in Marketing \[[Link](https://sites.google.com/view/causal-inference2021)\]
+  - *KAIST MBA -- Business Analytics (Prof. Oh, W.)* <span style="float:right">Apr 2019</span>
+    - Intelligent Video Analytics with Deep Learning \[[Link](https://github.com/jonghkim/kaist-video-analytics)\]
+  - *KAIST IT Management Summer Research Workshop (Prof. Park, J.)* <span style="float:right">Aug 2017</span>
+    - Machine Learning APIs and Web Scraping \[[Link](https://sites.google.com/view/kaist-mis-session2017)\]
 
 - **Teaching Assistant**
     - NCCT 5030/5031 Marketing Management, Cornell University <span style="float:right">Spring & Fall 2023</span>
