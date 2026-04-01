@@ -94,7 +94,7 @@ last_modified_at: 2026-03-12
 
 - **Guest Lecturer**
   - KAIST FMBA -- Introduction to FinTech (Prof. Lee, B.) <span style="float:right">Mar 2021, Mar 2023, Apr 2024</span>
-    - Investment Strategies in FinTech Industry \[[Link](https://github.com/jonghkim/scientific-investment-philosophy)\]
+    - Investment Strategies in FinTech Industry \[[Link](https://github.com/jonghkim/fintech-roboadvisor-factor-investing)\]
   - Korea Summer Session on Causal Inference (Prof. Park, J.) <span style="float:right">Jul 2021</span>
     - Applications of Machine Learning in Marketing \[[Link](https://sites.google.com/view/causal-inference2021)\]
   - KAIST MBA -- Business Analytics (Prof. Oh, W.) <span style="float:right">Apr 2019</span>
