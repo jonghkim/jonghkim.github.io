@@ -98,7 +98,7 @@ last_modified_at: 2026-03-12
   - Korea Summer Session on Causal Inference (Prof. Park, J.) <span style="float:right">Jul 2021</span>
     - Applications of Machine Learning in Marketing \[[Link](https://sites.google.com/view/causal-inference2021)\]
   - KAIST MBA -- Business Analytics (Prof. Oh, W.) <span style="float:right">Apr 2019</span>
-    - Intelligent Video Analytics with Deep Learning \[[Link](https://github.com/jonghkim/kaist-video-analytics)\]
+    - Intelligent Video Analytics with Deep Learning \[[Link](https://github.com/jonghkim/intelligent-video-analytics)\]
   - KAIST IT Management Summer Research Workshop (Prof. Park, J.) <span style="float:right">Aug 2017</span>
     - Machine Learning APIs and Web Scraping \[[Link](https://sites.google.com/view/kaist-mis-session2017)\]
 
