@@ -14,16 +14,16 @@ I am currently building Python and R packages for LLM-based inference. I have pr
 
 Here is a list of things I believe in:
 - "The greatest joy of research is recognizing, with clarity, what you don't yet understand—and then, every so often, experiencing the rare moment when the unknown finally becomes clear." - *June Huh*
-- "I have no special talent. I am only passionately curious." - *Albert Einstein*
-- "The important thing is not to stop questioning. Curiosity has its own reason for existing." - *Albert Einstein*
+<!-- - "I have no special talent. I am only passionately curious." - *Albert Einstein* -->
+<!-- - "The important thing is not to stop questioning. Curiosity has its own reason for existing." - *Albert Einstein* -->
 - "Research is a long conversation—and important, original ideas emerge from the slow accumulation of that conversation." - *June Huh*
 - "The unknown thing to be known appeared to me as some stretch of earth or hard marl, resisting penetration... the sea advances insensibly in silence, nothing seems to happen, nothing moves, the water is so far off you hardly hear it... yet it finally surrounds the resistant substance.” - *Alexander Grothendieck*
 - "…put the cutting edge of the chisel against the shell and strike hard. If needed, begin again at many different points until the shell cracks—and you are satisfied." - *Alexander Grothendieck*
-- "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." - *George Bernard Shaw*, Man and Superman
+<!-- - "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." - *George Bernard Shaw*, Man and Superman -->
+- "If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery." - *Enrico Fermi*
+- "'Science progresses one funeral at a time.' The future depends on some graduate student who is deeply suspicious of everything I have said." - *Geoff Hinton*
 - The Feynman Problem Solving Algorithm - Coined in jest by Nobel Prize-winning physicist, *Murray Gell-Mann*
     1. Write down the problem
     2. Think real hard
     3. Write down the solution
-- "If the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery." - *Enrico Fermi*
-- "'Science progresses one funeral at a time.' The future depends on some graduate student who is deeply suspicious of everything I have said." - *Geoff Hinton*
-- "He who has a why to live can bear with almost any how." - *Friedrich Nietzsche*
+<!-- - "He who has a why to live can bear with almost any how." - *Friedrich Nietzsche* -->
