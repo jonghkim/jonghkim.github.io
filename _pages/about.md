@@ -8,7 +8,8 @@ last_modified_at: 2026-03-12
 ---
 ## Education
 - **Cornell University, SC Johnson Graduate School of Management** <span style="float:right">Aug 2021–Present</span>
-    - Ph.D. Candidate in Marketing
+    - Ph.D. in Quantitative Marketing
+    - Minor Field: Applied Statistics
   - Committee: Vrinda Kadiyali (Chair), Emaad Manzoor, Omid Rafieian, Dan Kowal
 - **Korea Advanced Institute of Science and Technology** <span style="float:right">Feb 2015–Feb 2017</span>
     - M.S. in Management Engineering, Information Systems
