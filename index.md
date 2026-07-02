@@ -6,7 +6,7 @@ Welcome :) I am a PhD candidate in Quantitative Marketing at Johnson, Cornell Un
 
 My research develops new statistical methods, drawing on econometrics, Bayesian statistics, and machine learning, to answer consumer-welfare questions that matter to managers, scholars, and policymakers. My current work builds methods for valid statistical inference when outcomes are measured with error, including measurements produced by large language models. Substantively, I study consumer welfare in housing markets, the largest expense most households carry, with a broader interest in consumers' major financial decisions.
 
-Before my doctoral studies, I spent five years as a quantitative researcher in Seoul, first at NICE Pricing and Information, where I built credit-risk and derivatives models, and later at December & Company Asset Management, where I designed machine-learning portfolio strategies. Working with data on credit, household consumption, and financial choices drew me toward the consumer-welfare questions, especially in housing, that shape my work today.
+Before my doctoral studies, I spent five years as a quantitative researcher in Seoul, first at NICE Pricing and Information, where I built credit-risk and derivatives models, and later at December & Company Asset Management, where I designed machine-learning portfolio strategies. Working with data on credit, household consumption, and financial choices drew me toward the consumer-welfare questions that shape my work today.
 
 <!-- I am currently building Python and R packages for LLM-based inference. I have previously built [Job Automation Index](https://www.jobautomationindex.com/). -->
 
