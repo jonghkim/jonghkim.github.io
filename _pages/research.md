@@ -10,7 +10,7 @@ last_modified_at: 2021-03-28
   - [Website for Job Automation Index](https://jobautomationindex.com/)
   - [Non-technical summary video in CACM](https://vimeo.com/700520130)
   - [Code](https://github.com/jonghkim/job-automation-index)
-- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
+- Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square Lattice”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
 
 ## Working Papers
 - **Kim, J.** and Kadiyali, V., "Estimating Treatment Effects with Large Language Models: Evidence from San Diego's Algorithmic Pricing Ban" (**Job Market Paper**)
