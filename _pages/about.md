@@ -48,6 +48,7 @@ last_modified_at: 2026-03-12
     - Open SW Incubator ($60,000 as award), National IT Industry Promotion Agency, 2013
 
 ## Honors & Awards
+- Nagesh Gavirneni Outstanding Doctoral Student Award, Cornell University <span style="float:right">2026</span>
 - AMA-Sheth Doctoral Consortium Fellow <span style="float:right">2026</span>
 - ISMS Doctoral Consortium Fellow <span style="float:right">2025</span>
 - FinTech@Cornell Student Fellowship <span style="float:right">2022</span>
