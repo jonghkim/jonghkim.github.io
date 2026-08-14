@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-Welcome :) I am a PhD candidate in Quantitative Marketing at Johnson, Cornell University.
+Welcome :) I am a PhD candidate in Quantitative Marketing at SC Johnson, Cornell University.
 
 My research develops new statistical methods, drawing on econometrics, Bayesian statistics, and machine learning, to answer consumer-welfare questions that matter to managers, scholars, and policymakers. My current work builds methods for valid statistical inference when outcomes are measured with error, including measurements produced by large language models. Substantively, I study consumer welfare in housing markets, the largest expense most households carry, with a broader interest in consumers' major financial decisions.
 
