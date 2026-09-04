@@ -16,6 +16,7 @@ last_modified_at: 2021-03-28
 - **Kim, J.** and Kadiyali, V., "The Impact of San Diego’s Ban on Private Data in Algorithmic Rent Pricing: Evidence from Online Reviews with Large Language Models" (**Job Market Paper**)
 - **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
 - **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption"
+  - To be presented by coauthor at University of Maryland, Carnegie Mellon University, and Washington University in St. Louis, October 2026
 
 ## Selected Conference and Seminar Presentations
 - **Kim, J.**, Kowal, D., and Ruppert, D., 2026, "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors", IO / Empirical Modeling Brown Bag, Cornell University, Ithaca, NY, USA
