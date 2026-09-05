@@ -135,7 +135,7 @@ last_modified_at: 2026-03-12
 ## Other Information
 
 ### Work Authorization
-- U.S. Permanent Residence (I-485 Pending); EAD Expected July 2026; No Sponsorship Required
+- U.S. Permanent Residence (I-485 Pending); EAD Expected September 2026; No Sponsorship Required
 
 ### Language
 - Korean (Native), English (Fluent)
