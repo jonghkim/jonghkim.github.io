@@ -2,12 +2,15 @@
 layout: single
 author_profile: true
 ---
-Welcome :) I am a PhD candidate in Quantitative Marketing at SC Johnson, Cornell University.
+Welcome :) I am a PhD candidate in Quantitative Marketing at the Cornell SC Johnson College of Business, with a PhD minor in Statistics.
 
-My research develops new statistical methods, drawing on econometrics, Bayesian statistics, and machine learning, to answer consumer-welfare questions that matter to managers, scholars, and policymakers. My current work develops methods for causal inference when outcomes are measured with error, including measurements produced by large language models.
-Substantively, I study consumer welfare in housing markets, the largest expense most households carry, with a broader interest in consumers' major financial decisions.
+My research studies consumer-welfare questions shaped by technology, algorithms, and public policy. I use and develop methods from causal inference, econometrics, Bayesian statistics, and machine learning, particularly in settings involving large-scale observational data, text data, and measurements produced by large language models.
 
-Before my doctoral studies, I spent five years as a quantitative researcher in Seoul, first at NICE Pricing and Information, where I built credit-risk and derivatives models, and later at December & Company Asset Management, where I designed machine-learning portfolio strategies. Working with data on credit, household consumption, and financial choices drew me toward the consumer-welfare questions that shape my work today.
+My current work examines algorithmic pricing in housing markets, rent regulation, and statistical inference with LLM-based measurements. In prior work, I studied task automation and the evolving division of work between humans and machines.
+
+Across these projects, I am broadly interested in how new technologies change markets, economic behavior, and consumer welfare—and in developing credible empirical methods to measure those effects.
+
+Before my doctoral studies, I spent five years as a quantitative researcher in Seoul. At NICE Pricing and Information, I worked on credit-risk and derivatives models, and at December & Company Asset Management, I developed machine-learning portfolio strategies. Those experiences shaped my interest in combining rigorous statistical methods with economically consequential real-world problems.
 
 <!-- I am currently building Python and R packages for LLM-based inference. I have previously built [Job Automation Index](https://www.jobautomationindex.com/). -->
 
