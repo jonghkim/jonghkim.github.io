@@ -4,13 +4,11 @@ author_profile: true
 ---
 Welcome :) I am a PhD candidate in Quantitative Marketing at the Cornell SC Johnson College of Business, with a PhD minor in Statistics.
 
-My research studies consumer-welfare questions shaped by technology, algorithms, and public policy. I use and develop methods from causal inference, econometrics, Bayesian statistics, and machine learning, particularly in settings involving large-scale observational data, text data, and measurements produced by large language models.
+My research focuses on consumer-welfare questions shaped by technology, algorithms, and public policy. I use and develop methods from causal inference, econometrics, Bayesian statistics, and machine learning to study these questions.
 
-My current work examines algorithmic pricing in housing markets, rent regulation, and statistical inference with LLM-based measurements. In prior work, I studied task automation and the evolving division of work between humans and machines.
+My current substantive work examines algorithmic pricing and rent regulation in housing markets, while my methodological research focuses on statistical inference with measurements produced by large language models. I have also studied task automation and the evolving division of work between humans and machines.
 
-Across these projects, I am broadly interested in how new technologies change markets, economic behavior, and consumer welfare—and in developing credible empirical methods to measure those effects.
-
-Before my doctoral studies, I spent five years as a quantitative researcher in Seoul. At NICE Pricing and Information, I worked on credit-risk and derivatives models, and at December & Company Asset Management, I developed machine-learning portfolio strategies. Those experiences shaped my interest in combining rigorous statistical methods with economically consequential real-world problems.
+Before my doctoral studies, I spent five years as a quantitative researcher in Seoul. At NICE Pricing and Information, I worked on credit-risk and derivatives models, and at December & Company Asset Management, I developed machine-learning portfolio strategies.
 
 <!-- I am currently building Python and R packages for LLM-based inference. I have previously built [Job Automation Index](https://www.jobautomationindex.com/). -->
 
