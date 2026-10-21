@@ -3,20 +3,21 @@ layout: single
 permalink: /research/
 title: "Research"
 author_profile: true
-last_modified_at: 2021-03-28
+last_modified_at: 2026-10-21
 ---
-## Journal Publications
+## Working Papers
+- **Kim, J.** and Kadiyali, V., "The Impact of San Diego’s Ban on Private Data in Algorithmic Rent Pricing: Evidence from Online Reviews with Large Language Models" (**Job Market Paper**)
+- **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
+  - Presentations: Cornell University
+- **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption: Evidence from St. Paul's 2022 Ordinance"
+  - Presentations: ISMS Marketing Science Conference, University of Maryland, Carnegie Mellon University, Washington University in St. Louis (scheduled)
+
+## Other Publications
 - Park, J. and **Kim, J.**, 2022. “A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century”, *Communications of the ACM*, [[Manuscript](https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)] 
   - [Website for Job Automation Index](https://jobautomationindex.com/)
   - [Non-technical summary video in CACM](https://vimeo.com/700520130)
   - [Code](https://github.com/jonghkim/job-automation-index)
 - Choi, S., Kim, W. and **Kim, J.**, 2016. “Compression of Hamiltonian Matrix: Application to Spin-1/2 Heisenberg Square Lattice”, *AIP Advances* (**Editor’s Pick**) [[Manuscript](https://aip.scitation.org/doi/pdf/10.1063/1.4963834?class=pdf)]
-
-## Working Papers
-- **Kim, J.** and Kadiyali, V., "The Impact of San Diego’s Ban on Private Data in Algorithmic Rent Pricing: Evidence from Online Reviews with Large Language Models" (**Job Market Paper**)
-- **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
-- **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption"
-  - To be presented by coauthor at University of Maryland, Carnegie Mellon University, and Washington University in St. Louis, October 2026
 
 ## Selected Conference and Seminar Presentations
 - **Kim, J.**, Kowal, D., and Ruppert, D., 2026, "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors", IO / Empirical Modeling Brown Bag, Cornell University, Ithaca, NY, USA
