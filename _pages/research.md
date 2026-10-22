@@ -7,10 +7,11 @@ last_modified_at: 2026-10-21
 ---
 ## Working Papers
 - **Kim, J.** and Kadiyali, V., "The Impact of San Diego’s Ban on Private Data in Algorithmic Rent Pricing: Evidence from Online Reviews with Large Language Models" (**Job Market Paper**)
-- **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
   - Presentations: Cornell University
 - **Kim, J.**, Anand, P., and Kadiyali, V., "The Effects of Rent Control on Renter Experience and Consumption: Evidence from St. Paul's 2022 Ordinance"
   - Presentations: ISMS Marketing Science Conference, University of Maryland, Carnegie Mellon University, Washington University in St. Louis (scheduled)
+- **Kim, J.**, Kowal, D., and Ruppert, D., "Statistical Inference with Large Language Models: A Bayesian Framework for Measurement Errors"
+  - Presentations: Cornell University
 
 ## Other Publications
 - Park, J. and **Kim, J.**, 2022. “A Data-Driven Exploration of the Race between Human Labor and Machines in the 21st Century”, *Communications of the ACM*, [[Manuscript](https://cacm.acm.org/magazines/2022/5/260356-a-data-driven-exploration-of-the-race-between-human-labor-and-machines-in-the-21st-century/fulltext)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3924789)] 
