@@ -64,7 +64,8 @@ last_modified_at: 2026-10-21
 - **NICE Pricing and Information, Seoul, South Korea** <span style="float:right">Aug 2016–Apr 2019</span>
     - *Quantitative Researcher, Financial Engineering Center* (Alternative Military Service)
     - Modeled forward-looking default probabilities under IFRS 9 using non-homogeneous continuous-time Markov chains of credit-rating transitions
-    - Built Heston-based implied volatility surfaces and conducted return-based style analysis of fixed-income portfolios
+    - Developed implied volatility surfaces for index futures options using the Heston stochastic volatility model
+    - Estimated proxy portfolios of fixed-income funds using return-based style analysis
 
 - **Digital Economics and Enterprise Research Lab, KAIST** <span style="float:right">May 2015–Feb 2017</span>
     - Conducted empirical research in information systems using machine learning and econometrics (Advisor: Byungtae Lee)
