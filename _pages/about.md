@@ -58,7 +58,7 @@ last_modified_at: 2026-10-21
 ## Professional Experience
 - **December & Company Asset Management, Seoul, South Korea** <span style="float:right">Apr 2019–Jul 2021</span>
     - *Senior Researcher / Quantitative Portfolio Manager* (Alternative Military Service)
-    - Developed generative models using SEC filings (10-K/10-Q) to extract textual factors for predicting and explaining asset returns
+    - Developed generative models of textual factors from SEC filings (10-K/10-Q) to predict and explain asset returns
     - Designed sector rotation and alternative-asset investment strategies using data-driven economic cycle indicators
 
 - **NICE Pricing and Information, Seoul, South Korea** <span style="float:right">Aug 2016–Apr 2019</span>
