@@ -19,6 +19,7 @@ last_modified_at: 2026-10-21
 ## Honors & Awards
 - Nagesh Gavirneni Outstanding Doctoral Student Award, Cornell University <span style="float:right">2026</span>
 - AMA-Sheth Doctoral Consortium Fellow <span style="float:right">2026</span>
+- 250th Anniversary Research Spotlight, Cornell University [[Link](https://gradschool.cornell.edu/announcements/public-policies-housing-and-consumer-well-being/)] <span style="float:right">2026</span>
 - ISMS Doctoral Consortium Fellow <span style="float:right">2025</span>
 - FinTech@Cornell Student Fellowship <span style="float:right">2022</span>
 - Cornell SC Johnson College Doctoral Fellowship <span style="float:right">2021–Present</span>
