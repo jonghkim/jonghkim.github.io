@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 toc: false
 author_profile: true
-last_modified_at: 2026-10-21
+last_modified_at: 2026-11-22
 ---
 ## Education
 - **Cornell University, SC Johnson Graduate School of Management** <span style="float:right">Aug 2021–Present</span>
@@ -26,13 +26,13 @@ last_modified_at: 2026-10-21
 - Best Student Paper Award, *Post-ICIS 2017 KrAIS Research Workshop* <span style="float:right">2017</span>
 - Best Graduate Student Paper Award, KAIST <span style="float:right">2017</span>
 - Most Innovative Research-in-Progress Paper Runner-Up, *International Conference on Information Systems (ICIS)*, Dublin, Ireland <span style="float:right">2016</span>
-- Editor's Picks from the American Institute of Physics, *AIP Advances* <span style="float:right">2016</span>
+- Editor's Pick from the American Institute of Physics, *AIP Advances* <span style="float:right">2016</span>
 <!-- - Excellence Prize (2nd Place) at Future Idea Contest, KDI & Ministry of Strategy and Finance, 2016 -->
 - Scholarship for Academic Excellence among 2015 Entering Class, KAIST <span style="float:right">2015</span>
 - Excellence Prize (Top 1%, 3rd Place over 322 teams) at Hackathon for Big Data, Ministry of Science, ICT and Future Planning <span style="float:right">2014</span>
 - Dean's List for Four Semesters, UNIST <span style="float:right">2010, 2012–2014</span>
 - Undergraduate Research Opportunity Program (UROP), The Korea Foundation for the Advancement of Science and Creativity <span style="float:right">2013</span>
-- National Natural Sciences and Engineering Scholarship, Korea Student Aid Foundation <span style="float:right">2010–2014</span>
+- National Natural Science and Engineering Scholarship, Korea Student Aid Foundation <span style="float:right">2010–2014</span>
 
 ## Teaching
 - **Instructor**
@@ -52,8 +52,8 @@ last_modified_at: 2026-10-21
     - Machine Learning APIs and Web Scraping \[[Link](https://sites.google.com/view/kaist-mis-session2017)\]
 
 - **Teaching Assistant**
-    - NCCT 5030/5031 Marketing Management, Cornell University <span style="float:right">Spring & Fall 2023</span>
-    - AEM 4435 / NBA 6390 Data Driven Marketing, Cornell University <span style="float:right">Fall 2022</span>
+    - NCCT 5030/5031 Marketing Management, Cornell University <span style="float:right">Spring, Fall 2023</span>
+    - AEM 4435 / NBA 6390 Data-Driven Marketing, Cornell University <span style="float:right">Fall 2022</span>
     - NCC 5030 Marketing Management, Cornell University <span style="float:right">Summer 2022</span>
 
 ## Professional Experience
@@ -107,9 +107,9 @@ last_modified_at: 2026-10-21
 - Inferring Gender and Race based on the First Name, 2018, [[Code](https://github.com/jonghkim/inferring-gender-race-by-US-name)] -->
 
 ## Invite-Only Workshops
-- Econometric Society, Africa Training Workshop in Econometrics, 2024
+- Econometric Society, Africa Training Workshop in Econometrics <span style="float:right">2024</span>
 
-## Services
+## Service
 - **Ad-hoc Reviewer**
     - International Conference on Information Systems (ICIS), 2021
     - International Conference on Information Systems (ICIS), 2019
@@ -133,7 +133,7 @@ last_modified_at: 2026-10-21
 
 - **Work Authorization**: U.S. Permanent Residence (I-485 and EAD Pending); No Sponsorship Required
 - **Languages**: Korean (Native), English (Fluent)
-- **Programming**: Python, C/C++, Java, R, STATA, Matlab, SQL, JavaScript, HTML, CSS
+- **Programming**: Python, C/C++, Java, R, Stata, MATLAB, SQL, JavaScript, HTML, CSS
 - **Hobbies**: Hiking, Board Games, Fruit Picking, Indoor Cycling, Dog Sitting
 
 <!-- 
