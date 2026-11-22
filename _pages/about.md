@@ -134,7 +134,7 @@ last_modified_at: 2026-11-22
 - **Work Authorization**: U.S. Permanent Residence (I-485 and EAD Pending); No Sponsorship Required
 - **Languages**: Korean (Native), English (Fluent)
 - **Programming**: Python, C/C++, Java, R, Stata, MATLAB, SQL, JavaScript, HTML, CSS
-- **Hobbies**: Hiking, Board Games, Reading Novels, Fruit Picking, Dog Sitting
+- **Hobbies**: Hiking, Board Games, Fruit Picking, Dog Sitting
 
 <!-- 
 ### Selected Coursework
