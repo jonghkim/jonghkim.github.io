@@ -131,7 +131,7 @@ last_modified_at: 2026-11-25
 
 ## Other Information
 
-- **Work Authorization**: Authorized to Work in the U.S. (EAD; Green Card Pending); No Sponsorship Required
+- **Work Authorization**: U.S. Work Authorized (EAD; Green Card Pending); No Sponsorship Required
 - **Languages**: Korean (Native), English (Fluent)
 - **Programming**: Python, C/C++, Java, R, Stata, MATLAB, SQL, JavaScript, HTML, CSS
 - **Hobbies**: Hiking, Board Games, Fruit Picking, Dog Sitting
